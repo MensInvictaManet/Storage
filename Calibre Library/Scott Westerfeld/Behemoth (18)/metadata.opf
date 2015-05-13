@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">33616d4b-681d-44f0-b8a7-68324a70710a</dc:identifier>
+        <dc:title>Behemoth</dc:title>
+        <dc:creator opf:file-as="Westerfeld, Scott" opf:role="aut">Scott Westerfeld</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.19) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-27T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;The behemoth is the fiercest creature in the British navy. It can 
+swallow enemy battleships with one bite. The Darwinists will need it, 
+now that they are at war with the Clanker powers.&lt;br&gt;&lt;br&gt;Deryn is a girl
+ posing as a boy in the British Air Service, and Alek is the heir to an 
+empire posing as a commoner. Finally together aboard the airship &lt;i&gt;Leviathan&lt;/i&gt;, they hope to bring the war to a halt. But when disaster strikes the &lt;i&gt;Leviathan&lt;/i&gt;'s peacekeeping mission, they find themselves alone and hunted in enemy territory. &lt;br&gt;&lt;br&gt;Alek and Deryn will need great skill, new allies, and brave hearts to face what's ahead.&lt;/div&gt;</dc:description>
+        <dc:publisher>Simon Pulse</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Scott Westerfeld&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Leviathan" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2011-09-17T21:17:54+00:00" name="calibre:timestamp"/>
+        <meta content="Behemoth" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

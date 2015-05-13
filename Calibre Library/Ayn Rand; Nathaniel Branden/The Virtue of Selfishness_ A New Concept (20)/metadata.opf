@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2e85505a-07ad-4777-935e-8fd8222794ed</dc:identifier>
+        <dc:title>The Virtue of Selfishness: A New Concept of Egoism</dc:title>
+        <dc:creator opf:file-as="Branden, Ayn Rand; Nathaniel" opf:role="aut">Ayn Rand; Nathaniel Branden</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.30) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1964-08-15T08:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;SUMMARY: Ayn Rand here sets forth the moral principles of Objectivism, the philosophy that holds man's life--the life proper to a rational being--as the standard of moral values and regards altruism as incompatible with man's nature, with the creative requirements of his survival, and with a free society.&lt;/p&gt;</dc:description>
+        <dc:publisher>Signet/New American Library</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780451163936</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Epistemology</dc:subject>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>Modern &amp; contemporary fiction (post c 1945)</dc:subject>
+        <dc:subject>Egoism</dc:subject>
+        <dc:subject>General &amp; Literary Fiction</dc:subject>
+        <dc:subject>Conduct of life</dc:subject>
+        <dc:subject>Selfishness</dc:subject>
+        <dc:subject>Philosophy (Specific Aspects)</dc:subject>
+        <dc:subject>Ethics</dc:subject>
+        <dc:subject>Ethics &amp; Moral Philosophy</dc:subject>
+        <meta content="{&quot;Ayn Rand; Nathaniel Branden&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2013-03-13T02:53:03+00:00" name="calibre:timestamp"/>
+        <meta content="Virtue of Selfishness: A New Concept of Egoism, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

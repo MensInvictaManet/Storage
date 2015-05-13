@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">70</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">90c677db-6e8f-46ca-888a-a09e098c595e</dc:identifier>
+        <dc:title>Watchmen 05 of 12</dc:title>
+        <dc:creator opf:file-as="12, Watchmen 05 of" opf:role="aut">Alan Moore</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.30) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Alan Moore&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2013-06-02T21:50:35+00:00" name="calibre:timestamp"/>
+        <meta content="Watchmen 05 of 12" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

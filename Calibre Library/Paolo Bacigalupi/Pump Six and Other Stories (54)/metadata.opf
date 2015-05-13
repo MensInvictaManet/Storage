@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">17c4347a-1c6e-44fb-b088-9ba0aa50ac99</dc:identifier>
+        <dc:title>Pump Six and Other Stories</dc:title>
+        <dc:creator opf:file-as="Bacigalupi, Paolo" opf:role="aut">Paolo Bacigalupi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.22) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-10-10T07:00:00+00:00</dc:date>
+        <dc:publisher>Night Shade</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">6a86a49d-5a11-4098-9c04-6105ffd63e72</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science Fiction</dc:subject>
+        <meta content="{&quot;Paolo Bacigalupi&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-03-23T03:45:16+00:00" name="calibre:timestamp"/>
+        <meta content="Pump Six and Other Stories" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

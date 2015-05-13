@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">063b31ce-f302-4dd5-8548-d9771d409bb5</dc:identifier>
+        <dc:title>Anthem</dc:title>
+        <dc:creator opf:file-as="Rand, Ayn" opf:role="aut">Ayn Rand</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.22) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-07-13T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY: The year 2005 marks Ayn Rand's Centennial Year. Ayn Rand's classic tale of a future dark age of the great ?We??a world that deprives individuals of name, independence, and values?anticipates her later masterpieces, The Fountainhead and Atlas Shrugged.</dc:description>
+        <dc:publisher>BiblioBazaar, LLC</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Criticism</dc:subject>
+        <dc:subject>Psychological</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Literature: Classics</dc:subject>
+        <dc:subject>Literature - Classics</dc:subject>
+        <dc:subject>Literary</dc:subject>
+        <dc:subject>Modern &amp; contemporary fiction (post c 1945)</dc:subject>
+        <dc:subject>General &amp; Literary Fiction</dc:subject>
+        <dc:subject>Literature: Texts</dc:subject>
+        <dc:subject>Classic fiction</dc:subject>
+        <meta content="{&quot;Ayn Rand&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-03-13T02:53:04+00:00" name="calibre:timestamp"/>
+        <meta content="Anthem" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

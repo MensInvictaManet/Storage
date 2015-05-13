@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">27</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9f752930-dd6b-43f4-8498-e021bf064aa8</dc:identifier>
+        <dc:title>Introduction to objectivist epistemology</dc:title>
+        <dc:creator opf:file-as="Binswanger, Ayn Rand; Leonard Peikoff; Harry" opf:role="aut">Ayn Rand; Leonard Peikoff; Harry Binswanger</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.22) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1990-08-15T21:25:09+00:00</dc:date>
+        <dc:description>SUMMARY: Today man's mind is under attack by all the leading schools of philosophy. We are told that we cannot trust our senses, that logic is arbitrary, that concepts have no basis in reality. Ayn Rand opposes that torrent of nihilism, and she provides the alternative in this eloquent presentation of the essential nature--and power--of man's conceptual faculty. She offers a startlingly original solution to the problem that brought about the collapse of modern philosophy: the problem of universals. This brilliantly argued, superbly written work, together with an essay by philosophy professor Leonard Peikoff, is vital reading for all those who seek to discover that human beings can and should live by the guidance of reason.</dc:description>
+        <dc:publisher>New American Library</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780452010307</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Epistemology</dc:subject>
+        <dc:subject>Objectivism (Philosophy)</dc:subject>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>Modern</dc:subject>
+        <dc:subject>History &amp; Surveys</dc:subject>
+        <dc:subject>Theory of</dc:subject>
+        <dc:subject>Knowledge</dc:subject>
+        <meta content="{&quot;Ayn Rand; Leonard Peikoff; Harry Binswanger&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-03-13T02:53:05+00:00" name="calibre:timestamp"/>
+        <meta content="Introduction to objectivist epistemology" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

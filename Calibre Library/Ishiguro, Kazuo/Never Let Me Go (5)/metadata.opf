@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0784bb79-be97-4911-9095-469892e9b793</dc:identifier>
+        <dc:title>Never Let Me Go</dc:title>
+        <dc:creator opf:file-as="Ishiguro, Kazuo" opf:role="aut">Ishiguro, Kazuo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.22) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-01-08T00:00:00+00:00</dc:date>
+        <dc:publisher>Faber</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">d80e8789-f547-4c5f-8d38-c3b4c74a0452</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780571249381</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Ishiguro, Kazuo&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2013-03-13T02:24:12+00:00" name="calibre:timestamp"/>
+        <meta content="Never Let Me Go" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

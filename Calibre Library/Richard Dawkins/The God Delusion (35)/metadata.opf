@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ffe08d3a-1027-4c04-9ffb-0caeb3371826</dc:identifier>
+        <dc:title>The God Delusion</dc:title>
+        <dc:creator opf:file-as="Dawkins, Richard" opf:role="aut">Richard Dawkins</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.22) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-07-15T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY: In his sensational international bestseller, the preeminent scientist and outspoken atheist Richard Dawkins delivers a hard-hitting, impassioned, but humorous rebuttal of religious belief. With rigor and wit, Dawkins eviscerates the arguments for religion and demonstrates the supreme improbability of the existence of a supreme being. He makes a compelling case that faith is not just irrational, but potentially deadly. In a preface written for the paperback edition, Dawkins responds to some of the controversies the book has incited. This brilliantly argued, provocative book challenges all of us to test our beliefs, no matter what beliefs we hold.</dc:description>
+        <dc:publisher>Houghton Mifflin Co.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780618918249</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>Reference</dc:subject>
+        <dc:subject>Encyclopedias &amp; General Reference</dc:subject>
+        <dc:subject>SCIENCE</dc:subject>
+        <dc:subject>Controversial literature</dc:subject>
+        <dc:subject>information &amp; interdisciplinary subjects</dc:subject>
+        <dc:subject>Philosophy &amp; Social Aspects</dc:subject>
+        <dc:subject>Atheism</dc:subject>
+        <dc:subject>Religion</dc:subject>
+        <dc:subject>god</dc:subject>
+        <dc:subject>Religion - World Religions</dc:subject>
+        <dc:subject>Irreligion</dc:subject>
+        <meta content="{&quot;Richard Dawkins&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-03-13T02:56:04+00:00" name="calibre:timestamp"/>
+        <meta content="God Delusion, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

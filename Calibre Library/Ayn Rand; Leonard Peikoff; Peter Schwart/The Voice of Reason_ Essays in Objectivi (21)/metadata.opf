@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">980c9538-aafe-4b70-b24a-6f00267903d0</dc:identifier>
+        <dc:title>The Voice of Reason: Essays in Objectivist Thought</dc:title>
+        <dc:creator opf:file-as="Schwartz, Ayn Rand; Leonard Peikoff; Peter" opf:role="aut">Ayn Rand; Leonard Peikoff; Peter Schwartz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.22) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1990-06-01T21:25:53+00:00</dc:date>
+        <dc:description>SUMMARY: Here is the final collection of articles and speeches by the bestselling and world-renowned novelist, essayist, and philosopher.</dc:description>
+        <dc:publisher>Meridian</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780452010468</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Political</dc:subject>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>Ayn</dc:subject>
+        <dc:subject>Rand</dc:subject>
+        <dc:subject>Modern</dc:subject>
+        <dc:subject>History &amp; Surveys - Modern</dc:subject>
+        <dc:subject>History &amp; Surveys</dc:subject>
+        <dc:subject>Political Science</dc:subject>
+        <dc:subject>Modern fiction</dc:subject>
+        <dc:subject>Modern - 1950</dc:subject>
+        <dc:subject>Political science - Philosophy</dc:subject>
+        <dc:subject>Civilization</dc:subject>
+        <dc:subject>1950</dc:subject>
+        <dc:subject>1950-</dc:subject>
+        <dc:subject>History</dc:subject>
+        <meta content="{&quot;Ayn Rand; Leonard Peikoff; Peter Schwartz&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-03-13T02:53:03+00:00" name="calibre:timestamp"/>
+        <meta content="Voice of Reason: Essays in Objectivist Thought, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

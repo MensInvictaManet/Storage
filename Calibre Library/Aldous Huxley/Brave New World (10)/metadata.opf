@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5d4be7da-75da-4c6f-b2ed-e0de373c522f</dc:identifier>
+        <dc:title>Brave New World</dc:title>
+        <dc:creator opf:file-as="Huxley, Aldous" opf:role="aut">Aldous Huxley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.22) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-07-15T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY: Aldous Huxley's tour de force, Brave New World is a darkly satiric vision of a "utopian" future—where humans are genetically bred and pharmaceutically anesthetized to passively serve a ruling order. A powerful work of speculative fiction that has enthralled and terrified readers for generations, it remains remarkably relevant to this day as both a warning to be heeded as we head into tomorrow and as thought-provoking, satisfying entertainment.</dc:description>
+        <dc:publisher>HarperCollins Publishers</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780060850524</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Criticism</dc:subject>
+        <dc:subject>Psychological</dc:subject>
+        <dc:subject>1894-1963</dc:subject>
+        <dc:subject>Psychological fiction</dc:subject>
+        <dc:subject>Political fiction</dc:subject>
+        <dc:subject>Genetic engineering</dc:subject>
+        <dc:subject>Political</dc:subject>
+        <dc:subject>Aldous</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Literature: Classics</dc:subject>
+        <dc:subject>Dystopias</dc:subject>
+        <dc:subject>Collectivism</dc:subject>
+        <dc:subject>Totalitarianism</dc:subject>
+        <dc:subject>Passivity (Psychology)</dc:subject>
+        <dc:subject>Literature - Classics</dc:subject>
+        <dc:subject>Huxley</dc:subject>
+        <meta content="{&quot;Aldous Huxley&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-03-13T02:50:47+00:00" name="calibre:timestamp"/>
+        <meta content="Brave New World" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

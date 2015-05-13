@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">23c59aba-c30f-42c9-bbb8-651a1968d97c</dc:identifier>
+        <dc:title>Goliath</dc:title>
+        <dc:creator opf:file-as="Westerfeld, Scott &amp; Thompson, Keith" opf:role="aut">Scott Westerfeld</dc:creator>
+        <dc:creator opf:file-as="Westerfeld, Scott &amp; Thompson, Keith" opf:role="aut">Keith Thompson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.19) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-09-19T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;h3&gt;Product Description&lt;/h3&gt;&lt;p&gt;Alek and Deryn are on the last leg of their round-the-world quest to end World War I, reclaim Alek’s throne as prince of Austria, and finally fall in love. The first two objectives are complicated by the fact that their ship, the &lt;em&gt; &lt;em&gt;Leviathan&lt;/em&gt;, continues to detour farther away from the heart of the war (and crown). And the love thing would be a lot easier if Alek knew Deryn was a girl. (She has to pose as a boy in order to serve in the British Air Service.) And if they weren’t technically enemies. &lt;/em&gt;&lt;/p&gt;&lt;em&gt;&lt;p&gt;The tension thickens as the &lt;em&gt;Leviathan&lt;/em&gt; steams toward New York City with a homicidal lunatic on board: secrets suddenly unravel, characters reappear, and nothing is at it seems in this thunderous conclusion to Scott Westerfeld’s brilliant trilogy. &lt;/p&gt;&lt;h3&gt;About the Author&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Scott Westerfeld&lt;/strong&gt; most recent novels are &lt;em&gt;Leviathan&lt;/em&gt; and &lt;em&gt;Behemoth&lt;/em&gt;, the first two books in a new trilogy. His other novels include the Uglies series, the Midnighters trilogy, &lt;em&gt;The Last Days&lt;/em&gt;, an ALA Best Book for Young Adults and the sequel to &lt;em&gt;Peeps&lt;/em&gt;. Scott was born in Texas, and alternates summers between Sydney, Australia, and New York City. Visit him on the Web at scottwesterfeld.com or follow him on Twitter at @ScottWesterfeld.&lt;br&gt;&lt;/p&gt;&lt;p&gt;Keith Thompson's work has appeared in books, magazines, TV, video games and films. Upcoming games that include conceptual design by Keith are Borderlands and Aliens: Colonial Marines. Keith has also written several books on concept art techniques, the latest being How to Draw and Paint the Undead. See his work on the Web at keiththompsonart.com. &lt;/p&gt;&lt;/em&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Simon Pulse</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">1416971777</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781416971771</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Scott Westerfeld&quot;: &quot;&quot;, &quot;Keith Thompson&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Leviathan" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="10" name="calibre:rating"/>
+        <meta content="2011-09-22T04:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Goliath" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

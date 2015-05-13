@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{850738D5-3C13-4981-8519-2011AC56B236}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>SB_Font_Tool</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v110</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v110</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+    <IncludePath>C:\Users\DBanyai\Documents\Visual Studio 2010\Global Includes\SDL2-2.0.1\include;C:\Users\DBanyai\Documents\Visual Studio 2010\Global Includes\LibPNG\include;C:\Users\DBanyai\Documents\Visual Studio 2010\Global Includes\SDL2_image-2.0.0\include;C:\Users\DBanyai\Documents\Visual Studio 2010\Global Includes\glut-3.7.6-bin;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Users\DBanyai\Documents\Visual Studio 2010\Global Includes\SDL2-2.0.1\lib\x86;C:\Users\DBanyai\Documents\Visual Studio 2010\Global Includes\LibPNG\lib;C:\Users\DBanyai\Documents\Visual Studio 2010\Global Includes\SDL2_image-2.0.0\lib\x86;C:\Users\DBanyai\Documents\Visual Studio 2010\Global Includes\glut-3.7.6-bin;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+    <IncludePath>C:\Users\DBanyai\Documents\Visual Studio 2010\Global Includes\SDL2-2.0.1\include;C:\Users\DBanyai\Documents\Visual Studio 2010\Global Includes\LibPNG\include;C:\Users\DBanyai\Documents\Visual Studio 2010\Global Includes\SDL2_image-2.0.0\include;C:\Users\DBanyai\Documents\Visual Studio 2010\Global Includes\glut-3.7.6-bin;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Users\DBanyai\Documents\Visual Studio 2010\Global Includes\SDL2-2.0.1\lib\x86;C:\Users\DBanyai\Documents\Visual Studio 2010\Global Includes\LibPNG\lib;C:\Users\DBanyai\Documents\Visual Studio 2010\Global Includes\SDL2_image-2.0.0\lib\x86;C:\Users\DBanyai\Documents\Visual Studio 2010\Global Includes\glut-3.7.6-bin;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClInclude Include="Engine\BinaryExport.h" />
+    <ClInclude Include="Engine\Collision\LineToTriangle.h" />
+    <ClInclude Include="Engine\CutsceneSystem.h" />
+    <ClInclude Include="Engine\DebugConsole.h" />
+    <ClInclude Include="Engine\DebugTools.h" />
+    <ClInclude Include="Engine\DialogController.h" />
+    <ClInclude Include="Engine\DialogSystem\Elements\MenuElement_CheckBox.h" />
+    <ClInclude Include="Engine\DialogSystem\Elements\MenuElement_DropDown.h" />
+    <ClInclude Include="Engine\DialogSystem\Elements\MenuElement_EditBox.h" />
+    <ClInclude Include="Engine\DialogSystem\Elements\MenuElement_Frame.h" />
+    <ClInclude Include="Engine\DialogSystem\Elements\MenuElement_ListBox.h" />
+    <ClInclude Include="Engine\DialogSystem\Elements\MenuElement_TextBlock.h" />
+    <ClInclude Include="Engine\DialogSystem\Elements\MenuElement_TextButton.h" />
+    <ClInclude Include="Engine\DialogSystem\Elements\MenuElement_Texture.h" />
+    <ClInclude Include="Engine\DialogSystem\Elements\MenuElement_TextureButton.h" />
+    <ClInclude Include="Engine\DialogSystem\MenuElementsList.h" />
+    <ClInclude Include="Engine\DialogSystem\MenuGUI.h" />
+    <ClInclude Include="Engine\DialogSystem\MenuGUIElement.h" />
+    <ClInclude Include="Engine\Engine.h" />
+    <ClInclude Include="Engine\FontController.h" />
+    <ClInclude Include="Engine\InputSystem.h" />
+    <ClInclude Include="Engine\MegaFile.h" />
+    <ClInclude Include="Engine\OpenGLCamera.h" />
+    <ClInclude Include="Engine\OpenGL\GLFrame.h" />
+    <ClInclude Include="Engine\OpenGL\gltools.h" />
+    <ClInclude Include="Engine\OpenGL\math3d.h" />
+    <ClInclude Include="Engine\OpenGL\OGL_Includes.h" />
+    <ClInclude Include="Engine\RandomNumbers.h" />
+    <ClInclude Include="Engine\Renderable.h" />
+    <ClInclude Include="Engine\RenderablePrimitives.h" />
+    <ClInclude Include="Engine\SDL_Surface_to_OpenGL.h" />
+    <ClInclude Include="Engine\SDL_Window.h" />
+    <ClInclude Include="Engine\SignalSystem.h" />
+    <ClInclude Include="Engine\SimpleLogger.h" />
+    <ClInclude Include="Engine\Sprite.h" />
+    <ClInclude Include="Engine\StringToValue.h" />
+    <ClInclude Include="Engine\TaskScheduler.h" />
+    <ClInclude Include="Engine\TextureController.h" />
+    <ClInclude Include="Engine\Vector3.h" />
+    <ClInclude Include="Engine\WinsockWrapper\CBuffer.h" />
+    <ClInclude Include="Engine\WinsockWrapper\CSocket.h" />
+    <ClInclude Include="Engine\WinsockWrapper\CTools.h" />
+    <ClInclude Include="Engine\WinsockWrapper\WinsockWrapper.h" />
+    <ClInclude Include="Engine\WorldController.h" />
+    <ClInclude Include="Engine\XML_File.h" />
+    <ClInclude Include="MainProgram.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Engine\BinaryExport.cpp" />
+    <ClCompile Include="Engine\Collision\LineToTriangle.cpp" />
+    <ClCompile Include="Engine\CutsceneSystem.cpp" />
+    <ClCompile Include="Engine\DebugConsole.cpp" />
+    <ClCompile Include="Engine\DebugTools.cpp" />
+    <ClCompile Include="Engine\DialogController.cpp" />
+    <ClCompile Include="Engine\DialogSystem\Elements\MenuElement_CheckBox.cpp" />
+    <ClCompile Include="Engine\DialogSystem\Elements\MenuElement_DropDown.cpp" />
+    <ClCompile Include="Engine\DialogSystem\Elements\MenuElement_EditBox.cpp" />
+    <ClCompile Include="Engine\DialogSystem\Elements\MenuElement_Frame.cpp" />
+    <ClCompile Include="Engine\DialogSystem\Elements\MenuElement_ListBox.cpp" />
+    <ClCompile Include="Engine\DialogSystem\Elements\MenuElement_TextBlock.cpp" />
+    <ClCompile Include="Engine\DialogSystem\Elements\MenuElement_TextButton.cpp" />
+    <ClCompile Include="Engine\DialogSystem\Elements\MenuElement_Texture.cpp" />
+    <ClCompile Include="Engine\DialogSystem\Elements\MenuElement_TextureButton.cpp" />
+    <ClCompile Include="Engine\DialogSystem\MenuGUI.cpp" />
+    <ClCompile Include="Engine\DialogSystem\MenuGUIElement.cpp" />
+    <ClCompile Include="Engine\Engine.cpp" />
+    <ClCompile Include="Engine\FontController.cpp" />
+    <ClCompile Include="Engine\InputSystem.cpp" />
+    <ClCompile Include="Engine\OpenGLCamera.cpp" />
+    <ClCompile Include="Engine\RandomNumbers.cpp" />
+    <ClCompile Include="Engine\RenderablePrimitives.cpp" />
+    <ClCompile Include="Engine\SDL_Surface_to_OpenGL.cpp" />
+    <ClCompile Include="Engine\SDL_Window.cpp" />
+    <ClCompile Include="Engine\SimpleLogger.cpp" />
+    <ClCompile Include="Engine\StringToValue.cpp" />
+    <ClCompile Include="Engine\TextureController.cpp" />
+    <ClCompile Include="Engine\WinsockWrapper\CBuffer.cpp" />
+    <ClCompile Include="Engine\WinsockWrapper\CSocket.cpp" />
+    <ClCompile Include="Engine\WinsockWrapper\CTools.cpp" />
+    <ClCompile Include="Engine\WinsockWrapper\md5.cpp" />
+    <ClCompile Include="Engine\WinsockWrapper\WinsockWrapper.cpp" />
+    <ClCompile Include="Engine\WorldController.cpp" />
+    <ClCompile Include="Engine\XML_File.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="MainProgram.cpp" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">00c5993f-8e50-4a2a-ae8f-cbb76c20f2f5</dc:identifier>
+        <dc:title>Atlas Shrugged</dc:title>
+        <dc:creator opf:file-as="Rand, Ayn" opf:role="aut">Ayn Rand</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.22) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-03-02T08:00:00+00:00</dc:date>
+        <dc:description>SUMMARY: At last, Ayn Rand's masterpiece is available to her millions of loyal readers in trade paperback. With this acclaimed work and its immortal query, "Who is John Galt?", Ayn Rand found the perfect artistic form to express her vision of existence. Atlas Shrugged made Rand not only one of the most popular novelists of the century, but one of its most influential thinkers. Atlas Shrugged is the astounding story of a man who said that he would stop the motor of the world--and did. Tremendous in scope, breathtaking in its suspense, Atlas Shrugged stretches the boundaries further than any book you have ever read. It is a mystery, not about the murder of a man's body, but about the murder--and rebirth--of man's spirit. * Atlas Shrugged is the "second most influential book for Americans today" after the Bible, according to a joint survey conducted by the Library of Congress and the Book of the Month Club</dc:description>
+        <dc:publisher>Plume</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Criticism</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Literature - Classics</dc:subject>
+        <dc:subject>Literary</dc:subject>
+        <dc:subject>Objectivism (Philosophy)</dc:subject>
+        <dc:subject>United States</dc:subject>
+        <dc:subject>Modern fiction</dc:subject>
+        <dc:subject>Modern &amp; contemporary fiction (post c 1945)</dc:subject>
+        <dc:subject>Egoism</dc:subject>
+        <dc:subject>General &amp; Literary Fiction</dc:subject>
+        <dc:subject>Science Fiction - Adventure</dc:subject>
+        <dc:subject>Unknown</dc:subject>
+        <dc:subject>Objectivity</dc:subject>
+        <dc:subject>Capitalism - Fiction</dc:subject>
+        <dc:subject>Egoism - Fiction</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Objectivity - Fiction</dc:subject>
+        <dc:subject>Capitalism</dc:subject>
+        <dc:subject>Adventure stories</dc:subject>
+        <meta content="{&quot;Ayn Rand&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-03-13T02:53:04+00:00" name="calibre:timestamp"/>
+        <meta content="Atlas Shrugged" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

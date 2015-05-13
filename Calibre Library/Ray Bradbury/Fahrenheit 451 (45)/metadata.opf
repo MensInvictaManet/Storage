@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e29a7687-c18a-48d7-b552-286d0889c560</dc:identifier>
+        <dc:title>Fahrenheit 451</dc:title>
+        <dc:creator opf:file-as="Bradbury, Ray" opf:role="aut">Ray Bradbury</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.22) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1991-02-15T08:00:00+00:00</dc:date>
+        <dc:description>SUMMARY: Nowadays firemen start fires. Fireman Guy Montag loves to rush to a fire and watch books burn up. Then he met a seventeen-year old girl who told him of a past when people were not afraid, and a professor who told him of a future where people could think. And Guy Montag knew what he had to do....</dc:description>
+        <dc:publisher>Ballantine Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780345342966</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Criticism</dc:subject>
+        <dc:subject>Political</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Literature - Classics</dc:subject>
+        <dc:subject>American</dc:subject>
+        <dc:subject>Political Science</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Science Fiction - General</dc:subject>
+        <dc:subject>Science Fiction &amp; Fantasy</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Book burning</dc:subject>
+        <dc:subject>Censorship</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Literature &amp; Fiction</dc:subject>
+        <meta content="{&quot;Ray Bradbury&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-03-13T02:59:27+00:00" name="calibre:timestamp"/>
+        <meta content="Fahrenheit 451" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

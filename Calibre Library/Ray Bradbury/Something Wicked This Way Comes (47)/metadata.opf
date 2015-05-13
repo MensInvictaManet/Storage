@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7469160a-d554-44c1-964a-b2a685676617</dc:identifier>
+        <dc:title>Something Wicked This Way Comes</dc:title>
+        <dc:creator opf:file-as="Bradbury, Ray" opf:role="aut">Ray Bradbury</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.22) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-03-01T08:00:00+00:00</dc:date>
+        <dc:description>SUMMARY: The carnival rolls in sometime after midnight, ushering in Halloween a week early. The shrill siren song of a calliope beckons to all with a seductive promise of dreams and youth regained. In this season of dying, Cooger &amp; Dark's Pandemonium Shadow Show has come to Green Town, Illinois, to destroy every life touched by its strange and sinister mystery. And two boys will discover the secret of its smoke, mazes, and mirrors; two friends who will soon know all too well the heavy cost of wishes. . .and the stuff of nightmare.Few American novels written this century have endured in the heart and memory as has Ray Bradbury's unparalleled literary classic SOMETHING WICKED THIS WAY COMES. For those who still dream and remember, for those yet to experience the hypnotic power of its dark poetry, step inside. The show is about to begin.The carnival rolls in sometime after midnight, ushering in Halloween a week early. The shrill siren song of a calliope beckons to all with a seductive promise of dreams and youth regained. In this season of dying, Cooger &amp; Dark's Pandemonium Shadow Show has come to Green Town, Illinois, to destroy every life touched by its strange and sinister mystery. And two boys will discover the secret of its smoke, mazes, and mirrors; two friends who will soon know all too well the heavy cost of wishes. . .and the stuff of nightmare.Few American novels written this century have endured in the heart and memory as has Ray Bradbury's unparalleled literary classic SOMETHING WICKED THIS WAY COMES. For those who still dream and remember, for those yet to experience the hypnotic power of its dark poetry, step inside. The show is about to begin.</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780380729401</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Criticism</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Literature - Classics</dc:subject>
+        <dc:subject>Literary</dc:subject>
+        <dc:subject>American</dc:subject>
+        <dc:subject>Science Fiction - General</dc:subject>
+        <dc:subject>Crime &amp; mystery</dc:subject>
+        <dc:subject>Crime &amp; Thriller</dc:subject>
+        <dc:subject>Horror</dc:subject>
+        <dc:subject>Horror stories</dc:subject>
+        <dc:subject>Horror fiction</dc:subject>
+        <dc:subject>Halloween</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Temptation</dc:subject>
+        <dc:subject>Bildungsromans</dc:subject>
+        <dc:subject>Male friendship</dc:subject>
+        <dc:subject>Good and evil</dc:subject>
+        <dc:subject>Fantasy - Dark</dc:subject>
+        <dc:subject>Boys</dc:subject>
+        <dc:subject>Fathers and sons</dc:subject>
+        <dc:subject>Horror tales</dc:subject>
+        <dc:subject>Carnival</dc:subject>
+        <dc:subject>Illinois</dc:subject>
+        <dc:subject>Friendship</dc:subject>
+        <dc:subject>Carnivals</dc:subject>
+        <dc:subject>Fantasy fiction</dc:subject>
+        <meta content="{&quot;Ray Bradbury&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-03-13T02:59:43+00:00" name="calibre:timestamp"/>
+        <meta content="Something Wicked This Way Comes" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

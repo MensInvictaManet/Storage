@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3e463a0c-6829-4cda-82ca-2a16a97eb654</dc:identifier>
+        <dc:title>The Fountainhead</dc:title>
+        <dc:creator opf:file-as="Rand, Ayn" opf:role="aut">Ayn Rand</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.22) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-04-26T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW: **A special edition hardcover in celebration of Ayn Rand’s centennial.** When it was first published in 1943, *The Fountainhead*--containing Ayn Rand’s daringly original literary vision with the seeds of her groundbreaking philosophy, Objectivism—won immediate worldwide acclaim. This instant classic is the story of an intransigent young architect, his violent battle against conventional standards, and his explosive love affair with a beautiful woman who struggles to defeat him. This centennial edition of *The Fountainhead*, celebrating the controversial and eduring legacy of its author, features an afterword by Rand’s literary executor, Leonard Peikoff, offering some of Ayn Rand’s personal notes on the development of her masterwork.</dc:description>
+        <dc:publisher>Plume</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780452286757</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Criticism</dc:subject>
+        <dc:subject>Psychological fiction</dc:subject>
+        <dc:subject>Political</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Literature: Classics</dc:subject>
+        <dc:subject>Literature - Classics</dc:subject>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>Ayn</dc:subject>
+        <dc:subject>Rand</dc:subject>
+        <dc:subject>Literary Criticism</dc:subject>
+        <dc:subject>1905-1982</dc:subject>
+        <dc:subject>Man-woman relationships</dc:subject>
+        <dc:subject>Architects</dc:subject>
+        <dc:subject>Individual Architect</dc:subject>
+        <dc:subject>Architecture</dc:subject>
+        <dc:subject>Didactic fiction</dc:subject>
+        <dc:subject>Individualism</dc:subject>
+        <meta content="{&quot;Ayn Rand&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-03-13T02:53:03+00:00" name="calibre:timestamp"/>
+        <meta content="Fountainhead, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

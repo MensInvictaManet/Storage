@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c30dc73b-7939-42c3-905d-567f14b16ed1</dc:identifier>
+        <dc:title>Dracula</dc:title>
+        <dc:creator opf:file-as="Stoker, Bram" opf:role="aut">Bram Stoker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.22) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-09-01T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW: *Dracula*, by **Bram Stoker**, is part of the *Barnes &amp; Noble Classics** *series, which offers quality editions at affordable prices to the student and the general reader, including new scholarship, thoughtful design, and pages of carefully crafted extras. Here are some of the remarkable features of *Barnes &amp; Noble Classics*: New introductions commissioned from today's top writers and scholars Biographies of the authors Chronologies of contemporary historical, biographical, and cultural events Footnotes and endnotes Selective discussions of imitations, parodies, poems, books, plays, paintings, operas, statuary, and films inspired by the work Comments by other famous authors Study questions to challenge the reader's viewpoints and expectations Bibliographies for further reading Indices &amp; Glossaries, when appropriateAll editions are beautifully designed and are printed to superior specifications; some include illustrations of historical interest. *Barnes &amp; Noble Classics *pulls together a constellation of influences—biographical, historical, and literary—to enrich each reader's understanding of these enduring works. ** *Count Dracula* has inspired countless movies, books, and plays. But few, if any, have been fully faithful to **Bram Stoker**'s original, best-selling novel of mystery and horror, love and death, sin and redemption. *Dracula* chronicles the vampire's journey from Transylvania to the nighttime streets of London. There, he searches for the blood of strong men and beautiful women while his enemies plot to rid the world of his frightful power. Today's critics see *Dracula* as a virtual textbook on Victorian repression of the erotic and fear of female sexuality. In it, Stoker created a new word for terror, a new myth to feed our nightmares, and a character who will outlive us all. **Brooke Allen****** is a book critic whose work has appeared in numerous publications including The Atlantic Monthly, The New Criterion, The New York Times Book Review, The Wall Street Journal, and The Hudson Review. A collection of her essays, *Twentieth-Century Attitudes*, will be published in 2003.</dc:description>
+        <dc:publisher>BARNES &amp; NOBLE</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781593081607</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Criticism</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Literature - Classics</dc:subject>
+        <dc:subject>Literary</dc:subject>
+        <dc:subject>English</dc:subject>
+        <dc:subject>Whitby (England)</dc:subject>
+        <dc:subject>Vampires</dc:subject>
+        <dc:subject>Dracula</dc:subject>
+        <dc:subject>Horror</dc:subject>
+        <dc:subject>Gothic fiction</dc:subject>
+        <dc:subject>British</dc:subject>
+        <dc:subject>Horror - General</dc:subject>
+        <dc:subject>Count (Fictitious character)</dc:subject>
+        <dc:subject>Horror stories</dc:subject>
+        <dc:subject>Romanians</dc:subject>
+        <dc:subject>Transylvania (Romania)</dc:subject>
+        <dc:subject>Occult &amp; Supernatural</dc:subject>
+        <dc:subject>Horror fiction</dc:subject>
+        <meta content="{&quot;Bram Stoker&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-03-13T02:58:15+00:00" name="calibre:timestamp"/>
+        <meta content="Dracula" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

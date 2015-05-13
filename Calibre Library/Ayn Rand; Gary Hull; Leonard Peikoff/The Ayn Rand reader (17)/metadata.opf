@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0de23e20-844b-4075-8493-56ffb982165c</dc:identifier>
+        <dc:title>The Ayn Rand reader</dc:title>
+        <dc:creator opf:file-as="Peikoff, Ayn Rand; Gary Hull; Leonard" opf:role="aut">Ayn Rand; Gary Hull; Leonard Peikoff</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.22) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-01-01T21:25:35+00:00</dc:date>
+        <dc:description>SUMMARY: The Fountainhead, which became one of the most influential and widely read philosophical novels of the twentieth century, made Ayn Rand famous. An impassioned proponent of rational self-interest, individualism, and laissez-faire capitalism, she expressed her unique views in numerous works of fiction and non-fiction that have been brought together for the first time in this one-of-a-kind volume. The Fountainhead, which became one of the most influential and widely read philosophical novels of the twentieth century, made Ayn Rand famous. An impassioned proponent of reason, rational self-interest, individualism, and laissez-faire capitalism, she expressed her unique views in numerous works of fiction and non-fiction that have been brought together for the first time in this one-of-a-kind volume. Containing excerpts from all her novels--including Atlas Shrugged, Anthem, and We The Living--The Ayn Rand Reader is a perfect introduction for those who have never read Rand, and provides teachers with an excellent guide to the basics of her viewpoint.</dc:description>
+        <dc:publisher>Plume</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780452280403</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Literature: Classics</dc:subject>
+        <dc:subject>Literary Collections</dc:subject>
+        <dc:subject>Literary</dc:subject>
+        <dc:subject>Women authors</dc:subject>
+        <dc:subject>Essays</dc:subject>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>Ayn</dc:subject>
+        <dc:subject>Rand</dc:subject>
+        <dc:subject>Modern</dc:subject>
+        <dc:subject>History &amp; Surveys - Modern</dc:subject>
+        <dc:subject>History &amp; Surveys</dc:subject>
+        <dc:subject>USA</dc:subject>
+        <dc:subject>Novels</dc:subject>
+        <dc:subject>Literary Criticism</dc:subject>
+        <dc:subject>Western philosophy</dc:subject>
+        <dc:subject>Letters &amp; Miscellaneous</dc:subject>
+        <dc:subject>from c 1900 -</dc:subject>
+        <dc:subject>other prose &amp; writers: from c 1900 -</dc:subject>
+        <dc:subject>Anthologies</dc:subject>
+        <dc:subject>Dutch</dc:subject>
+        <dc:subject>Literary essays</dc:subject>
+        <dc:subject>Literary studies: from c 1900 -</dc:subject>
+        <dc:subject>Literary studies: fiction</dc:subject>
+        <dc:subject>novelists &amp; prose writers</dc:subject>
+        <dc:subject>1905-1982</dc:subject>
+        <dc:subject>Other prose: from c 1900 -</dc:subject>
+        <meta content="{&quot;Ayn Rand; Gary Hull; Leonard Peikoff&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-03-13T02:53:02+00:00" name="calibre:timestamp"/>
+        <meta content="Ayn Rand reader, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

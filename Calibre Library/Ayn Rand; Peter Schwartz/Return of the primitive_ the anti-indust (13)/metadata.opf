@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ac88a9da-d1ff-46ec-9046-080d6773c0ec</dc:identifier>
+        <dc:title>Return of the primitive: the anti-industrial revolution</dc:title>
+        <dc:creator opf:file-as="Schwartz, Ayn Rand; Peter" opf:role="aut">Ayn Rand; Peter Schwartz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.22) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-01-25T21:25:43+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW: In the tumultuous late 60s and early 70s, a social movement known as the "New Left" emerged as a major cultural influence, especially on the youth of America. It was a movement that embraced "flower-power" and psychedelic "consciousness-expansion," that lionized Ho Chi Minh and Fidel Castro and launched the Black Panthers and the Theater of the Absurd. In Return Of The Primitive (originally published in 1971 as The New Left), Ayn Rand, bestselling novelist and originator of the theory of Objectivism, identified the intellectual roots of this movement. She urged people to repudiate its mindless nihilism and to uphold, instead, a philosophy of reason, individualism, capitalism, and technological progress. Editor Peter Schwartz, in this new, expanded version of The New Left, has reorganized Rand's essays and added some of his own in order to underscore the continuing relevance of her analysis of that period. He examines such current ideologies as environmentalism and multiculturalism and argues that the same primitive, tribalist, "anti-industrial" mentality which animated the New Left a generation ago is shaping society today.</dc:description>
+        <dc:publisher>Meridian</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780452011847</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>United States</dc:subject>
+        <dc:subject>Modern</dc:subject>
+        <dc:subject>History &amp; Surveys - Modern</dc:subject>
+        <dc:subject>History &amp; Surveys</dc:subject>
+        <dc:subject>Social Science</dc:subject>
+        <dc:subject>USA</dc:subject>
+        <dc:subject>American Philosophy (20th Century)</dc:subject>
+        <dc:subject>Political Science</dc:subject>
+        <dc:subject>Technology and civilization.</dc:subject>
+        <dc:subject>New Left - United States</dc:subject>
+        <dc:subject>Movements - General</dc:subject>
+        <dc:subject>Political Ideologies</dc:subject>
+        <dc:subject>Social aspects</dc:subject>
+        <dc:subject>Technology and civilization</dc:subject>
+        <dc:subject>History of Ideas &amp; Popular Philosophy</dc:subject>
+        <dc:subject>Technology &amp; Engineering</dc:subject>
+        <dc:subject>Conservatism &amp; Liberalism</dc:subject>
+        <dc:subject>History &amp; Theory</dc:subject>
+        <dc:subject>New Left</dc:subject>
+        <dc:subject>New Left - United States.</dc:subject>
+        <dc:subject>Movements</dc:subject>
+        <meta content="{&quot;Ayn Rand; Peter Schwartz&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-03-13T02:53:02+00:00" name="calibre:timestamp"/>
+        <meta content="Return of the primitive: the anti-industrial revolution" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">62</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dda7b9df-9634-4221-89fa-c7d5b0fa8a87</dc:identifier>
+        <dc:title>The Time Traveler's Wife</dc:title>
+        <dc:creator opf:file-as="Niffenegger, Audrey" opf:role="aut">Audrey Niffenegger</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.30) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-05-27T07:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;SUMMARY: A dazzling novel in the most untraditional fashion, this is the remarkable story of Henry DeTamble, a dashing, adventuresome librarian who travels involuntarily through time, and Clare Abshire, an artist whose life takes a natural sequential course. Henry and Clare's passionate love affair endures across a sea of time and captures the two lovers in an impossibly romantic trap, and it is Audrey Niffenegger's cinematic storytelling that makes the novel's unconventional chronology so vibrantly triumphant. An enchanting debut and a spellbinding tale of fate and belief in the bonds of love, The Time Traveler's Wife is destined to captivate readers for years to come.&lt;/p&gt;</dc:description>
+        <dc:publisher>Houghton Mifflin Harcourt</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780156029438</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy - General</dc:subject>
+        <dc:subject>American First Novelists</dc:subject>
+        <dc:subject>American Science Fiction And Fantasy</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Fantasy fiction</dc:subject>
+        <dc:subject>Married people</dc:subject>
+        <dc:subject>Reading Group Guide</dc:subject>
+        <dc:subject>Fiction - Fantasy</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Librarians</dc:subject>
+        <dc:subject>Women art students</dc:subject>
+        <dc:subject>Romance - Time Travel</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Domestic fiction</dc:subject>
+        <dc:subject>Time travel</dc:subject>
+        <dc:subject>Fiction - Romance</dc:subject>
+        <meta content="{&quot;Audrey Niffenegger&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-05-31T03:44:28+00:00" name="calibre:timestamp"/>
+        <meta content="Time Traveler's Wife, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

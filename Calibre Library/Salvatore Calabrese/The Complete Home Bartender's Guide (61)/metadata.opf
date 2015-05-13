@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">61</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0a73512d-f43c-4c0c-aa2d-d610a6167dcd</dc:identifier>
+        <dc:title>The Complete Home Bartender's Guide</dc:title>
+        <dc:creator opf:file-as="Calabrese, Salvatore" opf:role="aut">Salvatore Calabrese</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.25) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-10-09T20:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;This beautifully illustrated edition of the home-bartending bible by world-renowned bartender Salvatore Calabrese includes 50 new recipes along with instructions for preparing virtually any cocktail. With encyclopedic information about every liquor—gin, rum, Champagne, wine, punches, more—here are 830 of Salvatore's personal favorites, from classics like the Negroni to exotic modern reinventions like the Cosmopolitan. Stir in a sparkling blend of insider info and gorgeous color photos, garnish with pictorials of dozens of techniques, and you've got everything necessary to become a master of mixology.&lt;/p&gt;</dc:description>
+        <dc:publisher>Sterling Epicure</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">47bba98a-81fa-442f-aed9-2b28ba0d4dc0</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Salvatore Calabrese&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-05-11T17:00:45+00:00" name="calibre:timestamp"/>
+        <meta content="Complete Home Bartender's Guide, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

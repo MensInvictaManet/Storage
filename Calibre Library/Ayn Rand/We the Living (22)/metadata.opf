@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">662e4bdc-2766-4d8e-ba31-c196eb610702</dc:identifier>
+        <dc:title>We the Living</dc:title>
+        <dc:creator opf:file-as="Rand, Ayn" opf:role="aut">Ayn Rand</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.22) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-05-05T21:25:56+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW: **The first literary work of one of the most influential philosophers and novelists of the twentieth century-available for the first time in trade paperback.** Ayn Rand wrote of her first novel, *We the Living*, "It is as near to an autobiography as I will ever write. The plot is invented, the background is not...The specific events of Kira's life were not mine: her ideas, her convictions, her values, were and are." *We the Living* depicts the struggle of the individual against the state, and the impact of the Russian Revolution on three human beings who demand the right to live their own lives and pursue their own happiness. It tells of a young woman's passionate love, held like a fortress against the corrupting evil of a totalitarian state. This classic novel is not a story of politics, but of the men and women who have to struggle for existence behind the banners and slogans.</dc:description>
+        <dc:publisher>Penguin Group USA, Inc</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780451226853</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Political</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Literature: Classics</dc:subject>
+        <dc:subject>Historical</dc:subject>
+        <dc:subject>Ayn</dc:subject>
+        <dc:subject>Rand</dc:subject>
+        <dc:subject>1905-1982</dc:subject>
+        <dc:subject>Historical - General</dc:subject>
+        <dc:subject>Fiction - Historical</dc:subject>
+        <dc:subject>Soviet Union</dc:subject>
+        <meta content="{&quot;Ayn Rand&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-03-13T02:53:03+00:00" name="calibre:timestamp"/>
+        <meta content="We the Living" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

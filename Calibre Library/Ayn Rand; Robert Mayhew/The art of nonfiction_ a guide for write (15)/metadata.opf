@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e68a670d-ab32-4a37-82ec-d393439bb857</dc:identifier>
+        <dc:title>The art of nonfiction: a guide for writers and readers</dc:title>
+        <dc:creator opf:file-as="Mayhew, Ayn Rand; Robert" opf:role="aut">Ayn Rand; Robert Mayhew</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.22) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-02-01T21:25:27+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW: A remarkable series of lectures on the art of creating effective nonfiction by one of the 20th century's most profound writers and thinkers-now available for the first time in print.Culled from sixteen informal lectures Ayn Rand delivered to a select audience in the late 1960s, this remarkable work offers indispensable guidance to the aspiring writer of nonfiction while providing readers with a fascinating discourse on art and creation. Based on the concept that the ability to create quality nonfiction is a skill that can be learned like any other, *The Art of Nonfiction* takes readers through the writing process, step-by-step, providing insightful observations and invaluable techniques along the way.In these edited transcripts, Rand discusses the psychological aspects of writing, and the different roles played by the conscious and subconscious mind. From choosing a subject to polishing a draft to mastering an individual writing style-for authors of theoretical works or those leaning toward journalistic reporting-this crucial resource introduces the words and ideas of one of our most enduring authors to a new generation.</dc:description>
+        <dc:publisher>Plume</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780452282315</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Language Arts &amp; Disciplines</dc:subject>
+        <dc:subject>Linguistics</dc:subject>
+        <dc:subject>Literary Criticism</dc:subject>
+        <dc:subject>Language Arts</dc:subject>
+        <dc:subject>Authorship</dc:subject>
+        <dc:subject>Composition &amp; Creative Writing</dc:subject>
+        <dc:subject>Literacy</dc:subject>
+        <dc:subject>Literary studies: general</dc:subject>
+        <dc:subject>Reference</dc:subject>
+        <dc:subject>Literary reference works</dc:subject>
+        <dc:subject>Composition &amp; Creative Writing - Nonfiction</dc:subject>
+        <dc:subject>Literary theory</dc:subject>
+        <dc:subject>Semiotics &amp; Theory</dc:subject>
+        <meta content="{&quot;Ayn Rand; Robert Mayhew&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-03-13T02:53:02+00:00" name="calibre:timestamp"/>
+        <meta content="art of nonfiction: a guide for writers and readers, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

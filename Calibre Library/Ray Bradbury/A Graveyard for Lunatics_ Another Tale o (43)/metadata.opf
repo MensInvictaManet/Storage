@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0ab3ebc0-6604-4e20-b594-1236241f788e</dc:identifier>
+        <dc:title>A Graveyard for Lunatics: Another Tale of Two Cities</dc:title>
+        <dc:creator opf:file-as="Bradbury, Ray" opf:role="aut">Ray Bradbury</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.22) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-06-14T18:11:32+00:00</dc:date>
+        <dc:description>SUMMARY: Halloween Night, 1954.  A young, film-obsessed scriptwriter has just been hired at one of the great studios.  An anonymous investigation leads from the giant Maximus Films backlot to an eerie graveyard separated from the studio by a single wall.  There he makes a terrifying discovery that thrusts him into a maelstrom of intrigue and mystery -- and into the dizzy exhilaration of the movie industry at the height of its glittering power.</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780380812004</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Mystery &amp; Detective</dc:subject>
+        <dc:subject>Suspense</dc:subject>
+        <dc:subject>Horror</dc:subject>
+        <dc:subject>Horror - General</dc:subject>
+        <dc:subject>Horror fiction</dc:subject>
+        <dc:subject>Fiction - Horror</dc:subject>
+        <dc:subject>Mystery &amp; Detective - General</dc:subject>
+        <dc:subject>Calif.)</dc:subject>
+        <dc:subject>Fantasy - General</dc:subject>
+        <dc:subject>Hollywood (Los Angeles</dc:subject>
+        <dc:subject>Juvenile Fiction</dc:subject>
+        <dc:subject>Halloween</dc:subject>
+        <dc:subject>Screenwriters</dc:subject>
+        <dc:subject>Holidays &amp; Celebrations</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Motion picture industry</dc:subject>
+        <dc:subject>Calif</dc:subject>
+        <dc:subject>Cemeteries</dc:subject>
+        <meta content="{&quot;Ray Bradbury&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-03-13T02:59:11+00:00" name="calibre:timestamp"/>
+        <meta content="Graveyard for Lunatics: Another Tale of Two Cities, A" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

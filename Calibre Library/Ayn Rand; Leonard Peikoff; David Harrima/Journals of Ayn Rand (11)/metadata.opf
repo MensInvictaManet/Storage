@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">44b4110b-24e5-4f97-b3c5-f81fb5b6e3bd</dc:identifier>
+        <dc:title>Journals of Ayn Rand</dc:title>
+        <dc:creator opf:file-as="Harriman, Ayn Rand; Leonard Peikoff; David" opf:role="aut">Ayn Rand; Leonard Peikoff; David Harriman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.22) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-08-02T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW: Rarely has a writer and thinker of the stature of Ayn Rand afforded us access to her most intimate thoughts and feelings. From *Journals of Ayn Rand*, we gain an invaluable new understanding and appreciation of the woman, the artist, and the philosopher, and of the enduring legacy she has left us. Rand comes vibrantly to life as an untried screenwriter in Hollywood, creating stories that reflect her youthful vision of the world. We see her painful memories of communist Russia and her struggles to conveyy them in *We the Living*. Most fascinating is the intricate, step-by-step process through which she created the plots and characters of her two masterworks, *The Fountainhead* and *Atlas Shrugged*, and the years of painstaking research that imbued the novels with their powerful authenticity. Complete with reflections on her legendary screenplay concerning the making of the atomic bomb and tantalizing descriptions of projects cut short by her death, *Journals of Ayn Rand* illuminates the mind and heart of an extraordinary woman as no biography or memoir ever could. On these vivid pages, Ayn Rand lives.</dc:description>
+        <dc:publisher>Plume</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780452278875</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Autobiography</dc:subject>
+        <dc:subject>Literary Collections</dc:subject>
+        <dc:subject>Epistemology</dc:subject>
+        <dc:subject>Literary</dc:subject>
+        <dc:subject>Women authors</dc:subject>
+        <dc:subject>Philosophers - United States</dc:subject>
+        <dc:subject>American - 20th century</dc:subject>
+        <dc:subject>Essays</dc:subject>
+        <dc:subject>Objectivism (Philosophy)</dc:subject>
+        <dc:subject>Diaries</dc:subject>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>Novelists</dc:subject>
+        <dc:subject>Philosophers</dc:subject>
+        <dc:subject>Women</dc:subject>
+        <dc:subject>Biography: General</dc:subject>
+        <dc:subject>United States</dc:subject>
+        <dc:subject>American</dc:subject>
+        <dc:subject>Historical</dc:subject>
+        <dc:subject>Ayn</dc:subject>
+        <dc:subject>Women novelists</dc:subject>
+        <dc:subject>Rand</dc:subject>
+        <dc:subject>20th century</dc:subject>
+        <dc:subject>Women philosophers</dc:subject>
+        <dc:subject>Biography &amp; Autobiography</dc:subject>
+        <dc:subject>Biography</dc:subject>
+        <meta content="{&quot;Ayn Rand; Leonard Peikoff; David Harriman&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-03-13T02:53:01+00:00" name="calibre:timestamp"/>
+        <meta content="Journals of Ayn Rand" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

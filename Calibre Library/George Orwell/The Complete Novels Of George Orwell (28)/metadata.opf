@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">14d5a5d6-5eb9-4a8b-a390-30f931bb8ab8</dc:identifier>
+        <dc:title>The Complete Novels Of George Orwell</dc:title>
+        <dc:creator opf:file-as="Orwell, George" opf:role="aut">George Orwell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.22) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-06-03T14:00:00+00:00</dc:date>
+        <dc:description>SUMMARY: Animal FarmBurmese DaysA Clergyman's DaughterComing Up for AirKeep the Aspidistra FlyingNineteen Eighty-FourDescribed by Anthony Burgess as 'the best-loved of all twentieth-century British writers', George Orwell still has as much power to move, amuse and provoke today.His best-known novels, Animal Farm, describing a revolution that goes horribly wrong, and Nineteen Eighty-Four, portraying a world where human freedom has been crushed, are two of the most famous, well-quoted and influential political satires ever written. The other novels in this volume also tell stories of people at odds with repressive institutions: the corrupt imperialism of Burmese Days, disaffection with materialistic society in Keep the Aspidistra Flying, the perils of modern suburban living in Coming Up for Air and surviving on the streets in A Clergyman's Daughter.All the novels brought together here display Orwell's humour, his understanding of human nature and his great compassion.</dc:description>
+        <dc:publisher>Penguin Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780141190396</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Education</dc:subject>
+        <meta content="{&quot;George Orwell&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-03-13T02:54:05+00:00" name="calibre:timestamp"/>
+        <meta content="Complete Novels Of George Orwell, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

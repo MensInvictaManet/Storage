@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4c5badf4-93cb-4282-8b29-86c602a261db</dc:identifier>
+        <dc:title>The Illustrated Man</dc:title>
+        <dc:creator opf:file-as="Bradbury, Ray" opf:role="aut">Ray Bradbury</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.22) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-06-01T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW: *He was a riot of rockets and fountains and people, in such intricate detail and color that you could bear the voiced murmuring, small and muted, from the crowds that inhabited his body.* **The Illustrated Man** Ray Bradbury brings wonders alive. A peerless American storyteller, his oeuvre has been celebrated for decades--from *The Martian Chronicles* and *Fahrenheit 451* to *Dandelion Wine* and *Something Wicked This Way Comes. * The Illustrated Man is classic Bradbury --a collection of tales that breathe and move, animated by sharp, intaken breath and flexing muscle. Here are eighteen startling visions of humankind's destiny, unfolding across a canvas of decorated skin--visions as keen as the tattooist's needle and as colorful as the inks that indelibly stain the body. The images, ideas, sounds and scents that abound in this phantasmagoric sideshow are provocative and powerful: the mournful cries of celestial travelers cast out cruelly into a vast, empty space of stars and blackness ... the sight of gray dust settling over a forgotten outpost on a road that leads nowhere ... the pungent odor of Jupiter on a returning father's clothing. Here living cities take their vengeance, technology awakens the most primal natural instincts, Martian invasions are foiled by the good life and the glad hand, and dreams are carried aloft in junkyard rockets. Ray Bradbury's *The Illustrated Man* is a kaleidoscopic blending of magic, imagination, and truth, widely believed to be one of the Grandmaster's premier accomplishments: as exhilarating as interplanetary travel, as maddening as a walk in a million-year rain, and as comforting as simple, familiar rituals on the last night of the world. He was a riot of rockets and fountains and people, in such intricate detail and color that you could hear the voices murmuring, small and muted, from the crowds that inhabited his body. Ray Bradbury brings wonders alive. A peerless American storyteller, his oeuvre has been celebrated for decades--from *The Martian Chronicles* and *Fahrenheit 451* to *Dandelion Wine* and *Something Wicked This Way Comes*. THE ILLUSTRATED MAN is classic Bradbury--a collection of tales that breathe and move, animated by sharp, intaken breath and flexing muscle. Here are eighteen startling visions of humankind's destiny, unfolding across a canvas of decorated skin--visions as keen as the tattooist's needle and as colorful as the inks that indelibly stain the body. The images, ideas, sounds and scents that abound in this phantasmagoric sideshow are provocative and powerful: the mournful cries of celestial travelers cast out cruelly into a vast, empty space of stars and blackness...the sight of gray dust settling over a forgotten outpost on a road that leads nowhere...the pungent odor of Jupiter on a returning father's clothing. Here living cities take their vengeance, technology awakens the most primal natural instincts, Martian invasions are foiled by the good life and the glad hand, and dreams are carried aloft in junkyard rockets. Ray Bradbury's THE ILLUSTRATEDMAN is a kaleidoscopic blending of magic, imagination, and truth, widely believed to be one of the Grandmaster's premier accomplishments: as exhilarating as interplanetary travel, as maddening as a walk in a million-year rain, and as comforting as simple, familiar rituals on the last night of the world.</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780380973842</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>American</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>Fiction - Science Fiction</dc:subject>
+        <dc:subject>Science Fiction &amp; Fantasy</dc:subject>
+        <dc:subject>Science Fiction And Fantasy</dc:subject>
+        <dc:subject>Fantasy - General</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Bradbury</dc:subject>
+        <dc:subject>Ray - Prose &amp; Criticism</dc:subject>
+        <dc:subject>Science Fiction - Short Stories</dc:subject>
+        <meta content="{&quot;Ray Bradbury&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-03-13T02:59:59+00:00" name="calibre:timestamp"/>
+        <meta content="Illustrated Man, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

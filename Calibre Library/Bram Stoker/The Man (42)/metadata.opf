@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">62d5b2b7-9053-4b9b-bda0-86530efc9b13</dc:identifier>
+        <dc:title>The Man</dc:title>
+        <dc:creator opf:file-as="Stoker, Bram" opf:role="aut">Bram Stoker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.22) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-08-15T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW: *'I* would rather be an angel than God!' The voice of the speaker sounded clearly through the hawthorn tree. The young man and the young girl who sat together on the low tombstone looked at each other. They had heard the voices of the two children talking, but had not noticed what they said; it was the sentiment, not the sound, which roused their attention. The girl put her finger to her lips to impress silence, and the man nodded; they sat as still as mice whilst the two children went on talking. The scene would have gladdened a painter's heart. An old churchyard. The church low and square-towered, with long mullioned windows, the yellow-grey stone roughened by age and tender-hued with lichens. Round it clustered many tombstones tilted in all directions. Behind the church a line of gnarled and twisted yews. The churchyard was full of fine trees. On one side a magnificent cedar; on the other a great copper beech. Here and there among the tombs and headstones many beautiful blossoming trees rose from the long green grass. The laburnum glowed in the June afternoon sunlight; the lilac, the hawthorn and the clustering meadowsweet which fringed the edge of the lazy stream mingled their heavy sweetness in sleepy fragrance. The yellow-grey crumbling walls were green in places with wrinkled harts-tongues, and were topped with sweet-williams and spreading house-leek and stone-crop and wild- flowers whose delicious sweetness made for the drowsy repose of perfect summer. But amid all that mass of glowing colour the two young figures seated on the grey old tomb stood out conspicuously. The man was in conventional hunting-dress: red coat, white stock, black hat, white breeches, and top-boots. The girl was one of the richest, most glowing, and yet withal daintiest figures the eye of man could linger on. She was in riding-habit of hunting scarlet cloth; her black hat was tipped forward by piled-up masses red-golden hair. Round her neck was a white lawn scarf in the fashion of a man's hunting-stock, close fitting, and sinking into a gold-buttoned waistcoat of snowy twill. As she sat with the long skirt across her left arm her tiny black top-boots appeared underneath. Her gauntleted gloves were of white buckskin; her riding-whip was plaited of white leather, topped with ivory and banded with gold. Even in her fourteenth year Miss Stephen Norman gave promise of striking beauty; beauty of a rarely composite character. In her the various elements of her race seemed to have cropped out. The firm- set jaw, with chin broader and more square than is usual in a woman, and the wide fine forehead and aquiline nose marked the high descent from Saxon through Norman. The glorious mass of red hair, of the true flame colour, showed the blood of another ancient ancestor of Northern race, and suited well with the voluptuous curves of the full, crimson lips. The purple-black eyes, the raven eyebrows and eyelashes, and the fine curve of the nostrils spoke of the Eastern blood of the far-back wife of the Crusader. Already she was tall for her age, with something of that lankiness which marks the early development of a really fine figure. Long-legged, long-necked, as straight as a lance, with head poised on the proud neck like a lily on its stem.</dc:description>
+        <dc:publisher>Echo Library</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781847022981</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Literature: Classics</dc:subject>
+        <dc:subject>Classic fiction</dc:subject>
+        <dc:subject>Horror</dc:subject>
+        <dc:subject>Horror - General</dc:subject>
+        <dc:subject>Fiction-Horror - General</dc:subject>
+        <dc:subject>Fiction - Horror</dc:subject>
+        <dc:subject>Horror &amp; Ghost Stories</dc:subject>
+        <meta content="{&quot;Bram Stoker&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-03-13T02:58:27+00:00" name="calibre:timestamp"/>
+        <meta content="Man, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

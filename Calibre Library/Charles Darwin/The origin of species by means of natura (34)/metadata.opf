@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2078f5f2-9fd9-4fed-af57-bb2c287b25e5</dc:identifier>
+        <dc:title>The origin of species by means of natural selection, or, The preservation of favored races in the struggle for life</dc:title>
+        <dc:creator opf:file-as="Darwin, Charles" opf:role="aut">Charles Darwin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.22) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1993-08-15T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY: Perhaps the most readable and accessible of the great works of scientific imagination, The Origin of Species sold out on the day it was published in 1859. Theologians quickly labeled Charles Darwin the most dangerous man in England, and, as the Saturday Review noted, the uproar over the book quickly "passed beyond the bounds of the study and lecture-room into the drawing-room and the public street." Yet, after reading it, Darwin's friend and colleague T. H. Huxley had a different reaction: "How extremely stupid not to have thought of that."Based largely on Darwin's experience as a naturalist while on a five-year voyage aboard H.M.S. Beagle, The Origin of Species set forth a theory of evolution and natural selection that challenged contemporary beliefs about divine providence and the immutability of species. A landmark contribution to philosophical and scientific thought, this edition also includes an introductory historical sketch and a glossary Darwin later added to the original text.Charles Darwin grew up considered, by his own account, "a very ordinary boy, rather below the common standard of intellect." A quirk of fate kept him from the career his father had deemed appropriate--that of a country parson--when a botanist recommended Darwin for an appointment as a naturalist aboard H.M.S. Beagle from 1831 to 1836. Darwin is also the author of the five-volume work Zoology of the Voyage of the Beagle (1839) and The Descent of Man (1871).From the Trade Paperback edition.</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780679600701</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Criticism</dc:subject>
+        <dc:subject>Literature - Classics</dc:subject>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>Literary essays</dc:subject>
+        <dc:subject>SCIENCE</dc:subject>
+        <dc:subject>Life Sciences</dc:subject>
+        <dc:subject>Life Sciences - Evolution</dc:subject>
+        <dc:subject>Evolution (Biology)</dc:subject>
+        <dc:subject>Evolution</dc:subject>
+        <dc:subject>Natural selection</dc:subject>
+        <dc:subject>Human evolution</dc:subject>
+        <dc:subject>Mathematics</dc:subject>
+        <dc:subject>Popular science</dc:subject>
+        <meta content="{&quot;Charles Darwin&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-03-13T02:55:40+00:00" name="calibre:timestamp"/>
+        <meta content="origin of species by means of natural selection, or, The preservation of favored races in the struggle for life, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

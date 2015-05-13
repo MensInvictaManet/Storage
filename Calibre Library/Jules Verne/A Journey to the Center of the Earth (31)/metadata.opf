@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a4df41ec-4fc2-4888-92a5-c6dacd675c3a</dc:identifier>
+        <dc:title>A Journey to the Center of the Earth</dc:title>
+        <dc:creator opf:file-as="Verne, Jules" opf:role="aut">Jules Verne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.22) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-06-15T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY: When an eccentric professor acquires an ancient book, a riddle on a spare piece of parchment tucked neatly within its pages leads him and his nephew on an unparalleled adventure. The unlocked riddle brings them to a remote mountain on Iceland, where they enter an extinct volcano on a daring quest to reach the center of the earth. They soon find themselves at a giant underground ocean where the laws of science are constantly redefined and prehistoric creatures are in abundance. But in the bowels of the earth, a shocking discovery pits the travellers face to face with their own terrifying past. Jules Verne's A Journey to the Center of the Earth has been read by millions of inquisitive minds and has influenced some of the worlds most famous explorers such as Admiral Byrd, who announced on his 1926 expedition to the North Pole that "it is Jules Verne who is bringing me." And renowned cave explorer Norbert Casteret said in 1938 that A Journey to the Center of the Earth was a "marvelous book which impressed and fascinated me more than any other. I have re-read it many times, and I confess I sometimes re-read it still, each time finding anew the joys and enthusiasm of my childhood."</dc:description>
+        <dc:publisher>Ad Classic</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780980921038</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Science Fiction - Adventure</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Fiction - Science Fiction</dc:subject>
+        <dc:subject>Science Fiction &amp; Fantasy</dc:subject>
+        <dc:subject>Fiction : Classics</dc:subject>
+        <dc:subject>Classic fiction (pre c 1945)</dc:subject>
+        <meta content="{&quot;Jules Verne&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-03-13T02:54:49+00:00" name="calibre:timestamp"/>
+        <meta content="Journey to the Center of the Earth, A" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

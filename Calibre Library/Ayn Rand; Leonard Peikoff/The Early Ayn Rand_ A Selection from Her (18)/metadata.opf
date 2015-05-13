@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">683436c2-dabb-4170-b278-704ccae170e1</dc:identifier>
+        <dc:title>The Early Ayn Rand: A Selection from Her Unpublished Fiction</dc:title>
+        <dc:creator opf:file-as="Peikoff, Ayn Rand; Leonard" opf:role="aut">Ayn Rand; Leonard Peikoff</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.22) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-04-05T21:25:39+00:00</dc:date>
+        <dc:description>SUMMARY: In celebration of the 100th anniversary of Ayn Rand's birth, this newly revised collection of her early fiction ranges from works written from 1926 through 1940, and includes her previously unpublished short story, "The Night King." Original.</dc:description>
+        <dc:publisher>Signet</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780451214652</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Literary</dc:subject>
+        <dc:subject>American</dc:subject>
+        <dc:subject>Ayn</dc:subject>
+        <dc:subject>Rand</dc:subject>
+        <dc:subject>Literary Criticism</dc:subject>
+        <dc:subject>1905-1982</dc:subject>
+        <dc:subject>Short Stories (single author)</dc:subject>
+        <dc:subject>Fiction - General</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <meta content="{&quot;Ayn Rand; Leonard Peikoff&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-03-13T02:53:03+00:00" name="calibre:timestamp"/>
+        <meta content="Early Ayn Rand: A Selection from Her Unpublished Fiction, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

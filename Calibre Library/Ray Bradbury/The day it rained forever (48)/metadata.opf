@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c535ebc3-5f03-4488-b06d-740504640402</dc:identifier>
+        <dc:title>The day it rained forever</dc:title>
+        <dc:creator opf:file-as="Bradbury, Ray" opf:role="aut">Ray Bradbury</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.22) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-07-15T18:10:30+00:00</dc:date>
+        <dc:publisher>PS Publishing Ltd</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781905834426</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Science Fiction &amp; Fantasy</dc:subject>
+        <meta content="{&quot;Ray Bradbury&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-03-13T02:59:53+00:00" name="calibre:timestamp"/>
+        <meta content="day it rained forever, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

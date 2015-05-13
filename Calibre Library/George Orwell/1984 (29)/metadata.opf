@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">29</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7475ef95-2756-4715-afa0-e1c8f352f6d4</dc:identifier>
+        <dc:title>1984</dc:title>
+        <dc:creator opf:file-as="Orwell, George" opf:role="aut">George Orwell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.22) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-09-15T07:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;SUMMARY: Winston Smith lives in a society where the government controls people's lives every second of the day. Alone in his small, one-room apartment, Winston dreams of a better life. Is freedom from this life of suffering possible? There must be something that the Party cannot control - something like love, perhaps?&lt;/p&gt;</dc:description>
+        <dc:publisher>Plume</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780452284234</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Criticism</dc:subject>
+        <dc:subject>Literature: Classics</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>London (England)</dc:subject>
+        <dc:subject>Political fiction</dc:subject>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>Political</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Literary</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Science Fiction - General</dc:subject>
+        <dc:subject>Dystopias</dc:subject>
+        <dc:subject>Totalitarianism</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Literature - Classics</dc:subject>
+        <meta content="{&quot;George Orwell&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-03-13T02:54:05+00:00" name="calibre:timestamp"/>
+        <meta content="1984" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

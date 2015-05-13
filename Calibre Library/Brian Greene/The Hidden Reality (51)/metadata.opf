@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2f990f1d-3533-4e48-9859-63ae1eb81267</dc:identifier>
+        <dc:title>The Hidden Reality</dc:title>
+        <dc:creator opf:file-as="Greene, Brian" opf:role="aut">Brian Greene</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.22) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-25T08:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;From the best-selling author of &lt;i&gt;The Elegant Universe&lt;/i&gt; and &lt;i&gt;The Fabric of the Cosmos&lt;/i&gt; comes his most expansive and accessible book to date--a book that takes on the grandest question: Is ours the only universe?&lt;br&gt;&lt;br&gt;There was a time when "universe" meant all there is. Everything. Yet, in recent years discoveries in physics and cosmology have led a number of scientists to conclude that our universe may be one among many. With crystal-clear prose and inspired use of analogy, Brian Greene shows how a range of different "multiverse" proposals emerges from theories developed to explain the most refined observations of both subatomic particles and the dark depths of space: a multiverse in which you have an infinite number of doppelgängers, each reading this sentence in a distant universe; a multiverse comprising a vast ocean of bubble universes, of which ours is but one; a multiverse that endlessly cycles through time, or one that might be hovering millimeters away...&lt;/p&gt;</dc:description>
+        <dc:publisher>Knopf Doubleday Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-0-307-59525-6</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Brian Greene&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-03-15T03:01:31+00:00" name="calibre:timestamp"/>
+        <meta content="Hidden Reality, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

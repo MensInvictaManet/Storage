@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5d7ea9b0-169d-4871-996b-e2d4f0e3ea14</dc:identifier>
+        <dc:title>Kill Decision</dc:title>
+        <dc:creator opf:file-as="Suarez, Daniel" opf:role="aut">Suarez, Daniel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.22) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-07-18T22:00:00+00:00</dc:date>
+        <dc:publisher>Penguin Group</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0073XV2W2</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Suarez, Daniel&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-03-13T02:18:23+00:00" name="calibre:timestamp"/>
+        <meta content="Kill Decision" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">57</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4f317f8b-70f1-48e2-a7a8-561752e4c9f9</dc:identifier>
+        <dc:title>Stranger Things Happen</dc:title>
+        <dc:creator opf:file-as="Link, Kelly" opf:role="aut">Kelly Link</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.22) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-10-10T07:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;This first collection by award-winning author Kelly Link takes fairy tales and cautionary tales, dictators and extraterrestrials, amnesiacs and honeymooners, revenants and readers alike, on a voyage into new, strange, and wonderful territory. The girl detective must go to the underworld to solve the case of the tap-dancing bank robbers. A librarian falls in love with a girl whose father collects artificial noses. A dead man posts letters home to his estranged wife. Two women named Louise begin a series of consecutive love affairs with a string of cellists. A newly married couple become participants in an apocalyptic beauty pageant. Sexy blond aliens invade New York City. A young girl learns how to make herself disappear.&lt;br&gt;These eleven extraordinary stories are quirky, spooky, and smart. They all have happy endings. Every story contains a secret prize. Each story was written especially for you.&lt;br&gt;Stories from Stranger Things Happen have won the Nebula, Tiptree, and World Fantasy Award. Stranger Things Happen was a Salon  Book of the Year, one of the Village Voice‘s 25 Favorite Books of 2001, and was nominated for the Firecracker Alternative Book Award.&lt;/p&gt;</dc:description>
+        <dc:publisher>Small Beer Press</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">e12d3883-5aff-4a59-8747-7fe38719e2cb</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781931520997</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>FIC009040</dc:subject>
+        <dc:subject>FIC029000</dc:subject>
+        <meta content="{&quot;Kelly Link&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-03-23T03:45:17+00:00" name="calibre:timestamp"/>
+        <meta content="Stranger Things Happen" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

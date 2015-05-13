@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">59</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fe4fd8a2-5e36-4374-b414-b1db82eb133b</dc:identifier>
+        <dc:title>Magic for Beginners</dc:title>
+        <dc:creator opf:file-as="Link, Kelly" opf:role="aut">Kelly Link</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.22) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-10-10T07:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Fantasy/Mainstream. 93823 words long. First published in 2005. Time Magazine, Salon, Village Voice, San Francisco Chronicle Book of the Year. Locus Award Winner. Young Lions Award, Bram Stoker, and World Fantasy Finalist.&lt;/p&gt;</dc:description>
+        <dc:publisher>Small Beer Press</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">d3c8771d-e152-477c-9edd-9e7a92462a21</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781931520157</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Short Fiction</dc:subject>
+        <meta content="{&quot;Kelly Link&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-03-23T03:45:18+00:00" name="calibre:timestamp"/>
+        <meta content="Magic for Beginners" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

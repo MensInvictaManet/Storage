@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f37c32b3-b42d-4446-9fe3-40bb3f884e6b</dc:identifier>
+        <dc:title>The Ayn Rand lexicon: objectivism from A to Z</dc:title>
+        <dc:creator opf:file-as="Binswanger, Ayn Rand; Harry" opf:role="aut">Ayn Rand; Harry Binswanger</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.22) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1988-08-15T21:25:30+00:00</dc:date>
+        <dc:description>SUMMARY: A prolific writer, bestselling novelist, and world-renowned philosopher, Ayn Rand defined a full system of thought--from epistemology to aesthetics. Her writing is so extensive and the range of issues she covers so enormous that those interested in finding her discussions of a given topic may have to search through many sources to locate the relevant passage. THE AYN RAND LEXICON brings together all the key ideas of her philosophy of Objectivism. Begun under Rand's supervision, this unique volume is an invaluable guide to her philosophy or reason, self-interest and laissez-faire capitalism--the philosophy so brilliantly dramatized in her novels THE FOUNTAINHEAD, WE THE LIVING, and ATLAS SHRUGGED.</dc:description>
+        <dc:publisher>Meridian</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780452010512</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Objectivism (Philosophy)</dc:subject>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>Modern</dc:subject>
+        <dc:subject>History &amp; Surveys - Modern</dc:subject>
+        <dc:subject>History &amp; Surveys</dc:subject>
+        <dc:subject>Movements - General</dc:subject>
+        <dc:subject>Movements</dc:subject>
+        <dc:subject>Reference</dc:subject>
+        <dc:subject>Modern fiction</dc:subject>
+        <meta content="{&quot;Ayn Rand; Harry Binswanger&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-03-13T02:53:02+00:00" name="calibre:timestamp"/>
+        <meta content="Ayn Rand lexicon: objectivism from A to Z, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

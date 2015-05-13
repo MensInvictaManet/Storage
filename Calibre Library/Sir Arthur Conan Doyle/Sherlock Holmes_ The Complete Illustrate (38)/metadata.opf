@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0f75eeb7-e1c3-475e-9320-a8e5ebaa83de</dc:identifier>
+        <dc:title>Sherlock Holmes: The Complete Illustrated Novels</dc:title>
+        <dc:creator opf:file-as="Doyle, Sir Arthur Conan" opf:role="aut">Sir Arthur Conan Doyle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.22) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-08-28T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY: Every one of the immortal Sherlock Holmes novels appears in this single volume, unabridged, embellished with beautiful original illustrations, and reasonably priced. The classic works include: A Study in Scarlet, the very first Holmes adventure; The Sign of Four, where Holmes solves the case of a missing treasure in India; The Hound of the Baskervilles, in which Holmes and Watson find themselves involved in an age-old curse; and The Valley of Fear, with a battle between Holmes and his nemesis, Professor Moriarty. “Remarkably affordable and complete. Reproductions of old illustrations are enchanting.”—Baltimore Sun.</dc:description>
+        <dc:publisher>Chancellor Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781402718922</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Detective</dc:subject>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Mystery &amp; Detective</dc:subject>
+        <dc:subject>Fiction - Mystery</dc:subject>
+        <dc:subject>Suspense</dc:subject>
+        <dc:subject>Traditional British</dc:subject>
+        <dc:subject>Mystery &amp; Detective - Traditional British</dc:subject>
+        <meta content="{&quot;Sir Arthur Conan Doyle&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-03-13T02:57:14+00:00" name="calibre:timestamp"/>
+        <meta content="Sherlock Holmes: The Complete Illustrated Novels" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

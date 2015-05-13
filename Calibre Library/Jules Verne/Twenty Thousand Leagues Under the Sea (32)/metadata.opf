@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">19d76049-6963-45ba-bc9d-83926dbabb4d</dc:identifier>
+        <dc:title>Twenty Thousand Leagues Under the Sea</dc:title>
+        <dc:creator opf:file-as="Verne, Jules" opf:role="aut">Jules Verne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.22) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-05-15T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY: The classic tale of Captain Nemo and the submarine the Nautilus, this is the quintessential translation by the internationally renowned Verne scholar, William Butcher. This edition of Twenty Thousand Leagues under the Sea reports the very first study of Verne's manuscript and is packed with detail on artistic and scientific references.</dc:description>
+        <dc:publisher>Oxford University Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">1593083025</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Criticism</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Literature - Classics</dc:subject>
+        <dc:subject>Literary</dc:subject>
+        <dc:subject>Fiction - General</dc:subject>
+        <dc:subject>General &amp; Literary Fiction</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Science Fiction - General</dc:subject>
+        <dc:subject>Classic fiction (pre c 1945)</dc:subject>
+        <dc:subject>French Novel And Short Story</dc:subject>
+        <dc:subject>Science Fiction And Fantasy</dc:subject>
+        <dc:subject>Sea Stories</dc:subject>
+        <dc:subject>Submarines (Ships)</dc:subject>
+        <dc:subject>Submarines (Ships) - Fiction</dc:subject>
+        <dc:subject>Underwater exploration</dc:subject>
+        <meta content="{&quot;Jules Verne&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-03-13T02:54:58+00:00" name="calibre:timestamp"/>
+        <meta content="Twenty Thousand Leagues Under the Sea" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

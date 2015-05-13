@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a06ee8d5-6b1e-4e07-aeb3-36e387ac6fdd</dc:identifier>
+        <dc:title>Capitalism: the unknown ideal</dc:title>
+        <dc:creator opf:file-as="Rand, Ayn" opf:role="aut">Ayn Rand</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.22) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1966-08-15T08:00:00+00:00</dc:date>
+        <dc:description>As an interesting relic of the past, this outlandish piece of propaganda is worth the listener's time, even though the author's overconfident sense of her own rightness and persistence at pressing her points with little respect for opposing views can quickly become more than a little annoying. Using outdated words such as "altruists" to represent the forces of evil who would overburden the poor, beleaguered American business community, Rand "protesteth" far too much. Americans have seen many of the abuses come to pass that Rand, writing in 1946, claimed would never happen if free enterprise were just left to its own devices, so many of her arguments will be lost on a modern listener. For instance, the antitrust laws forced railroad barons to use illegal payoffs to forge ahead with expansion, and they shouldn't, therefore, be blamed the antitrust laws are the real problem. Narrator Anna Field's cold, crisp voice is actually well suited to such a heartless piece as this. Recommended. Mark Pumphrey, Polk Cty. P.L., Columbus, NC</dc:description>
+        <dc:publisher>New American Library</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780451147950</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Philosophy</dc:subject>
+        <dc:subject>United States</dc:subject>
+        <dc:subject>Political Science</dc:subject>
+        <dc:subject>History &amp; Theory</dc:subject>
+        <dc:subject>Capitalism</dc:subject>
+        <dc:subject>Economics</dc:subject>
+        <dc:subject>Free Enterprise</dc:subject>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <meta content="{&quot;Ayn Rand&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-03-13T02:53:04+00:00" name="calibre:timestamp"/>
+        <meta content="Capitalism: the unknown ideal" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

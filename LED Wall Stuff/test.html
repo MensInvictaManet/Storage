@@ -1,0 +1,628 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Arduino LED Control</title>
+	</head>
+	<body>
+		<h1>LED CONTROL</h1>
+		<form method="get">
+			<input type="checkbox" name="LED001R" value="2" onclick="submit();" checked>LED 0_0 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED002R" value="2" onclick="submit();" checked>LED 0_1 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED003R" value="2" onclick="submit();" checked>LED 0_2 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED004R" value="2" onclick="submit();" checked>LED 0_3 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED005R" value="2" onclick="submit();" checked>LED 0_4 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED006R" value="2" onclick="submit();" checked>LED 0_5 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED007R" value="2" onclick="submit();" checked>LED 0_6 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED008R" value="2" onclick="submit();" checked>LED 0_7 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED009R" value="2" onclick="submit();" checked>LED 0_8 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED010R" value="2" onclick="submit();" checked>LED 0_9 R
+			<br />
+			<input type="checkbox" name="LED001G" value="2" onclick="submit();" checked>LED 0_0 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED002G" value="2" onclick="submit();" checked>LED 0_1 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<input type="checkbox" name="LED003G" value="2" onclick="submit();" checked>LED 0_2 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED004G" value="2" onclick="submit();" checked>LED 0_3 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED005G" value="2" onclick="submit();" checked>LED 0_4 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED006G" value="2" onclick="submit();" checked>LED 0_5 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED007G" value="2" onclick="submit();" checked>LED 0_6 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<input type="checkbox" name="LED008G" value="2" onclick="submit();" checked>LED 0_7 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED009G" value="2" onclick="submit();" checked>LED 0_8 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED010G" value="2" onclick="submit();" checked>LED 0_9 G
+			<br />
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 0_0 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 0_1 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 0_2 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 0_3 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 0_4 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 0_5 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 0_6 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 0_7 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 0_8 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 0_9 B
+		</form>
+		<br /><br />
+		<form method="get">
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 1_0 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 1_1 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 1_2 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 1_3 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 1_4 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 1_5 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 1_6 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 1_7 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 1_8 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 1_9 R
+			<br />
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 1_0 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 1_1 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 1_2 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 1_3 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 1_4 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 1_5 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 1_6 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 1_7 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 1_8 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 1_9 G
+			<br />
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 1_0 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 1_1 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 1_2 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 1_3 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 1_4 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 1_5 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 1_6 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 1_7 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 1_8 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 1_9 B
+		</form>
+		<br /><br />
+		<form method="get">
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 2_0 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 2_1 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 2_2 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 2_3 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 2_4 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 2_5 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 2_6 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 2_7 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 2_8 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 2_9 R
+			<br />
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 2_0 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 2_1 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 2_2 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 2_3 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 2_4 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 2_5 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 2_6 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 2_7 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 2_8 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 2_9 G
+			<br />
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 2_0 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 2_1 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 2_2 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 2_3 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 2_4 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 2_5 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 2_6 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 2_7 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 2_8 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 2_9 B
+		</form>
+		<br /><br />
+		<form method="get">
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 3_0 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 3_1 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 3_2 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 3_3 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 3_4 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 3_5 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 3_6 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 3_7 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 3_8 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 3_9 R
+			<br />
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 3_0 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 3_1 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 3_2 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 3_3 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 3_4 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 3_5 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 3_6 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 3_7 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 3_8 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 3_9 G
+			<br />
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 3_0 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 3_1 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 3_2 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 3_3 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 3_4 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 3_5 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 3_6 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 3_7 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 3_8 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 3_9 B
+		</form>
+		<br /><br />
+		<form method="get">
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 4_0 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 4_1 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 4_2 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 4_3 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 4_4 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 4_5 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 4_6 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 4_7 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 4_8 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 4_9 R
+			<br />
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 4_0 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 4_1 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 4_2 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 4_3 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 4_4 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 4_5 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 4_6 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 4_7 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 4_8 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 4_9 G
+			<br />
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 4_0 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 4_1 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 4_2 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 4_3 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 4_4 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 4_5 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 4_6 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 4_7 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 4_8 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 4_9 B
+		</form>
+		<br /><br />
+		<form method="get">
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 5_0 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 5_1 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 5_2 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 5_3 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 5_4 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 5_5 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 5_6 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 5_7 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 5_8 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 5_9 R
+			<br />
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 5_0 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 5_1 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 5_2 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 5_3 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 5_4 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 5_5 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 5_6 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 5_7 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 5_8 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 5_9 G
+			<br />
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 5_0 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 5_1 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 5_2 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 5_3 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 5_4 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 5_5 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 5_6 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 5_7 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 5_8 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 5_9 B
+		</form>
+		<br /><br />
+		<form method="get">
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 6_0 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 6_1 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 6_2 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 6_3 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 6_4 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 6_5 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 6_6 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 6_7 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 6_8 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 6_9 R
+			<br />
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 6_0 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 6_1 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 6_2 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 6_3 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 6_4 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 6_5 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 6_6 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 6_7 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 6_8 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 6_9 G
+			<br />
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 6_0 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 6_1 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 6_2 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 6_3 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 6_4 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 6_5 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 6_6 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 6_7 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 6_8 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 6_9 B
+		</form>
+		<br /><br />
+		<form method="get">
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 7_0 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 7_1 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 7_2 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 7_3 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 7_4 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 7_5 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 7_6 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 7_7 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 7_8 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 7_9 R
+			<br />
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 7_0 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 7_1 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 7_2 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 7_3 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 7_4 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 7_5 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 7_6 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 7_7 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 7_8 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 7_9 G
+			<br />
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 7_0 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 7_1 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 7_2 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 7_3 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 7_4 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 7_5 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 7_6 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 7_7 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 7_8 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 7_9 B
+		</form>
+		<br /><br />
+		<form method="get">
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 8_0 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 8_1 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 8_2 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 8_3 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 8_4 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 8_5 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 8_6 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 8_7 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 8_8 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 8_9 R
+			<br />
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 8_0 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 8_1 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 8_2 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 8_3 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 8_4 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 8_5 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 8_6 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 8_7 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 8_8 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 8_9 G
+			<br />
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 8_0 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 8_1 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 8_2 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 8_3 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 8_4 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 8_5 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 8_6 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 8_7 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 8_8 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 8_9 B
+		</form>
+		<br /><br />
+		<form method="get">
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 9_0 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 9_1 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 9_2 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 9_3 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 9_4 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 9_5 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 9_6 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 9_7 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 9_8 R 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 9_9 R
+			<br />
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 9_0 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 9_1 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 9_2 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 9_3 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 9_4 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 9_5 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 9_6 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 9_7 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 9_8 G 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 9_9 G
+			<br />
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 9_0 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 9_1 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 9_2 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 9_3 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 9_4 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 9_5 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 9_6 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 9_7 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 9_8 B 
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+			<input type="checkbox" name="LED2" value="2" onclick="submit();" checked>LED 9_9 B
+		</form>
+	</body>
+</html>

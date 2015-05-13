@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aac6d970-368a-4a30-a0e8-634068af2c8e</dc:identifier>
+        <dc:title>Ready Player One</dc:title>
+        <dc:creator opf:file-as="Cline, Ernest" opf:role="aut">Cline, Ernest</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.22) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-08-18T07:00:00+00:00</dc:date>
+        <dc:publisher>Cornerstone Digital</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B005CVWWJY</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781446493830</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Cline, Ernest&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-03-13T02:25:22+00:00" name="calibre:timestamp"/>
+        <meta content="Ready Player One" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

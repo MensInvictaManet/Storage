@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">58</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">961a707e-de93-4393-ac68-d0efa10adbff</dc:identifier>
+        <dc:title>Zoo City</dc:title>
+        <dc:creator opf:file-as="Beukes, Lauren" opf:role="aut">Lauren Beukes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.22) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-10-10T07:00:00+00:00</dc:date>
+        <dc:publisher>Angry Robot</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">593d8bd7-80c5-4835-8469-e5f0061e4ef3</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>urban</dc:subject>
+        <dc:subject>pullman</dc:subject>
+        <dc:subject>africa</dc:subject>
+        <dc:subject>zinzi</dc:subject>
+        <dc:subject>animalled</dc:subject>
+        <dc:subject>huron</dc:subject>
+        <dc:subject>songweza</dc:subject>
+        <dc:subject>south</dc:subject>
+        <meta content="{&quot;Lauren Beukes&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-03-23T03:45:17+00:00" name="calibre:timestamp"/>
+        <meta content="Zoo City" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

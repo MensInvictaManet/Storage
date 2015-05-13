@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fd0e1be4-2963-4b5d-98b5-d5da1d5b1046</dc:identifier>
+        <dc:title>The Selfish Gene</dc:title>
+        <dc:creator opf:file-as="Dawkins, Richard" opf:role="aut">Richard Dawkins</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.30) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-07-15T17:22:50+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;SUMMARY: Richard Dawkins' brilliant reformulation of the theory of natural selection has the rare distinction of having provoked as much excitement and interest outside the scientific community as within it. His theories have helped change the whole nature of the study of social biology, and have forced thousands of readers to rethink their beliefs about life. In his internationally bestselling, now classic volume, The Selfish Gene, Dawkins explains how the selfish gene can also be a subtle gene. The world of the selfish gene revolves around savage competition, ruthless exploitation, and deceit, and yet, Dawkins argues, acts of apparent altruism do exist in nature. Bees, for example, will commit suicide when they sting to protect the hive, and birds will risk their lives to warn the flock of an approaching hawk. This 30th anniversary edition of Dawkins' fascinating book retains all original material, including the two enlightening chapters added in the second edition. In a new Introduction the author presents his thoughts thirty years after the publication of his first and most famous book, while the inclusion of the two-page original Foreword by brilliant American scientist Robert Trivers shows the enthusiastic reaction of the scientific community at that time. This edition is a celebration of a remarkable exposition of evolutionary thought, a work that has been widely hailed for its stylistic brilliance and deep scientific insights, and that continues to stimulate whole new areas of research today.&lt;/p&gt;</dc:description>
+        <dc:publisher>Oxford University Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780199291151</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>SCIENCE</dc:subject>
+        <dc:subject>Life Sciences</dc:subject>
+        <dc:subject>Life Sciences - Evolution</dc:subject>
+        <dc:subject>Evolution (Biology)</dc:subject>
+        <dc:subject>Evolution</dc:subject>
+        <dc:subject>Natural selection</dc:subject>
+        <dc:subject>Mathematics</dc:subject>
+        <dc:subject>Popular science</dc:subject>
+        <dc:subject>Genetics &amp; Genomics</dc:subject>
+        <dc:subject>Animal behavior</dc:subject>
+        <dc:subject>Genetics</dc:subject>
+        <dc:subject>Life Sciences - Genetics &amp; Genomics</dc:subject>
+        <dc:subject>Évolution</dc:subject>
+        <dc:subject>Genetics (non-medical)</dc:subject>
+        <dc:subject>Sociobiology</dc:subject>
+        <dc:subject>Animal behaviour</dc:subject>
+        <dc:subject>Animals</dc:subject>
+        <dc:subject>History Of Science</dc:subject>
+        <dc:subject>Game theory</dc:subject>
+        <dc:subject>Behavior genetics</dc:subject>
+        <meta content="{&quot;Richard Dawkins&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2013-03-13T02:56:23+00:00" name="calibre:timestamp"/>
+        <meta content="Selfish Gene, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

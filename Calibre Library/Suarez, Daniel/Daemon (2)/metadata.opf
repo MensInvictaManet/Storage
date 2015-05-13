@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b87b6951-d25e-4562-ba50-60d701241b04</dc:identifier>
+        <dc:title>Daemon</dc:title>
+        <dc:creator opf:file-as="Suarez, Daniel" opf:role="aut">Suarez, Daniel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.22) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-02-04T08:00:00+00:00</dc:date>
+        <dc:publisher>Quercus</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0038QN2AS</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781849164429</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Suarez, Daniel&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-03-13T02:18:23+00:00" name="calibre:timestamp"/>
+        <meta content="Daemon" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

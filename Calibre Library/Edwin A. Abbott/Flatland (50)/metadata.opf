@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">50</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">65709ba4-b1c9-470b-86fd-7226ecaa1ba2</dc:identifier>
+        <dc:title>Flatland</dc:title>
+        <dc:creator opf:file-as="Abbott, Edwin A." opf:role="aut">Edwin A. Abbott</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.22) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-15T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW: A century-old classic of British letters that charmed and fascinated generations of readers with its witty satire of Victorian society and its unique insights, by analogy, into the fourth dimension.</dc:description>
+        <dc:publisher>Jackson Mahr</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781907727337</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Criticism</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Literature - Classics</dc:subject>
+        <dc:subject>General &amp; Literary Fiction</dc:subject>
+        <dc:subject>Classic fiction (pre c 1945)</dc:subject>
+        <meta content="{&quot;Edwin A. Abbott&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-03-13T03:00:41+00:00" name="calibre:timestamp"/>
+        <meta content="Flatland" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

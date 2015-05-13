@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">93708b4c-27f1-45e6-b973-4eff26be5317</dc:identifier>
+        <dc:title>The Greatest Show on Earth</dc:title>
+        <dc:creator opf:file-as="Dawkins, Richard" opf:role="aut">Richard Dawkins</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.22) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-09-22T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW: **In 2008, a Gallup poll showed that 44 percent of Americans believed God had created man in his present form within the last 10,000 years. In a Pew Forum poll in the same year, 42 percent believed that all life on earth has existed in its present form since the beginning of time.** In 1859 Charles Darwin's masterpiece, *On the Origin of Species*, shook society to its core. Darwin was only too aware of the storm his theory of evolution would provoke. But he surely would have raised an incredulous eyebrow at the controversy still raging a century and a half later. Evolution is accepted as scientific fact by all reputable scientists and indeed theologians, yet millions of people continue to question its veracity. Now the author of the iconic work *The God Delusion* takes them to task. *The Greatest Show on Earth* is a stunning counterattack on advocates of "Intelligent Design," explaining the evidence for evolution while exposing the absurdities of the creationist "argument." Dawkins sifts through rich layers of scientific evidence: from living examples of natural selection to clues in the fossil record; from natural clocks that mark the vast epochs wherein evolution ran its course to the intricacies of developing embryos; from plate tectonics to molecular genetics. Combining these elements and many more, he makes the airtight case that "we find ourselves perched on one tiny twig in the midst of a blossoming and flourishing tree of life and it is no accident, but the direct consequence of evolution by non-random selection." *The Greatest Show on Earth* comes at a critical time: systematic opposition to the fact of evolution is menacing as never before. In American schools, and in schools around the world, insidious attempts are made to undermine the status of science in the classroom. Dawkins wields a devastating argument against this ignorance, but his unjaded passion for the natural world turns what might have been a negative argument into a positive offering to the reader: nothing less than a master's vision of life, in all its splendor.</dc:description>
+        <dc:publisher>Free Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781416594789</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>General</dc:subject>
+        <dc:subject>SCIENCE</dc:subject>
+        <dc:subject>Life Sciences</dc:subject>
+        <dc:subject>Life Sciences - Evolution</dc:subject>
+        <dc:subject>Evolution (Biology)</dc:subject>
+        <dc:subject>Evolution</dc:subject>
+        <dc:subject>Mathematics</dc:subject>
+        <dc:subject>Religion</dc:subject>
+        <dc:subject>Dawkins</dc:subject>
+        <dc:subject>Life Sciences - Biology - General</dc:subject>
+        <dc:subject>Religion and science</dc:subject>
+        <dc:subject>Religion &amp; Science</dc:subject>
+        <dc:subject>Biology</dc:subject>
+        <dc:subject>Intelligent design (Teleology)</dc:subject>
+        <dc:subject>Richard_Dawkins</dc:subject>
+        <dc:subject>Organic Evolution</dc:subject>
+        <dc:subject>Life (Biology)</dc:subject>
+        <dc:subject>Life Sciences - Biological Diversity</dc:subject>
+        <dc:subject>Biological Diversity</dc:subject>
+        <meta content="{&quot;Richard Dawkins&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-03-13T02:56:14+00:00" name="calibre:timestamp"/>
+        <meta content="Greatest Show on Earth, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

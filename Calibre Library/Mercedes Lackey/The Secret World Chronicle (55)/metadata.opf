@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">02fd6551-1c1a-46ae-9f1f-f6561d2822cd</dc:identifier>
+        <dc:title>The Secret World Chronicle</dc:title>
+        <dc:creator opf:file-as="Lackey, Mercedes" opf:role="aut">Mercedes Lackey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.22) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-10-10T07:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">04f90725-b20d-4ac7-bfb4-9168294a0b53</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Nazis</dc:subject>
+        <dc:subject>superheroes</dc:subject>
+        <dc:subject>Mercedes Lackey</dc:subject>
+        <dc:subject>World War Two</dc:subject>
+        <meta content="{&quot;Mercedes Lackey&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-03-23T03:45:16+00:00" name="calibre:timestamp"/>
+        <meta content="Secret World Chronicle, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

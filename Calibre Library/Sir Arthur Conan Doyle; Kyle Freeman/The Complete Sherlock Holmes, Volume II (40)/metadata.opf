@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f095f08f-4f0b-4b93-9f67-b495e131a419</dc:identifier>
+        <dc:title>The Complete Sherlock Holmes, Volume II</dc:title>
+        <dc:creator opf:file-as="Freeman, Sir Arthur Conan Doyle; Kyle" opf:role="aut">Sir Arthur Conan Doyle; Kyle Freeman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.22) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-10-01T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY: The Complete Sherlock Holmes, Volume II, by Sir Arthur Conan Doyle, is part of the Barnes &amp; Noble Classics series, which offers quality editions at affordable prices to the student and the general reader, including new scholarship, thoughtful design, and pages of carefully crafted extras. Here are some of the remarkable features of Barnes &amp; Noble Classics: New introductions commissioned from today's top writers and scholars Biographies of the authors Chronologies of contemporary historical, biographical, and cultural events Footnotes and endnotes Selective discussions of imitations, parodies, poems, books, plays, paintings, operas, statuary, and films inspired by the work Comments by other famous authors Study questions to challenge the reader's viewpoints and expectations Bibliographies for further reading Indices &amp; Glossaries, when appropriateAll editions are beautifully designed and are printed to superior specifications; some include illustrations of historical interest. Barnes &amp; Noble Classics pulls together a constellation of influences—biographical, historical, and literary—to enrich each reader's understanding of these enduring works. The Complete Sherlock Holmes comprises four novels and fifty-six short stories revolving around the world’s most popular and influential fictional detective—the eccentric, arrogant, and ingenious Sherlock Holmes. He and his trusted friend, Dr. Watson, step from Holmes’s comfortable quarters at 221b Baker Street into the swirling fog of Victorian London to combine detailed observation and vast knowledge with brilliant deduction. Inevitably, Holmes rescues the innocent, confounds the guilty, and solves the most perplexing puzzles known to literature. Volume II of The Complete Sherlock Holmes begins with The Return of Sherlock Holmes. Sir Arthur Conan Doyle, tired of writing about Holmes, had killed him off at the end of “The Final Problem,” the last tale in The Memoirs of Sherlock Holmes (found in Volume I of The Complete Sherlock Holmes). Public demand for new Holmes stories was so great, however, that Conan Doyle eventually resurrected him. The first story in The Return, “The Adventure of the Empty House,” features Conan Doyle’s infamously inventive explanation of how Holmes escaped what seemed like certain death.This volume also includes two other collections of Holmes stories, His Last Bow and The Case Book of Sherlock Holmes; Conan Doyle’s final full-length Holmes novel, The Valley of Fear; a pair of parodies, “The Field Bazaar” and “How Watson Learned the Trick”; and two essays about the “private life” of the beloved sleuth. Kyle Freeman, a Sherlock Holmes enthusiast for many years, earned two graduate degrees in English literature from Columbia University, where his major was twentieth-century British literature.</dc:description>
+        <dc:publisher>Spark Educational Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781593080402</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Literary</dc:subject>
+        <dc:subject>Short Stories (single author)</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>Detective</dc:subject>
+        <dc:subject>Mystery &amp; Detective</dc:subject>
+        <dc:subject>Fiction - Mystery</dc:subject>
+        <dc:subject>Traditional British</dc:subject>
+        <dc:subject>Mystery &amp; Detective - Traditional British</dc:subject>
+        <dc:subject>Holmes</dc:subject>
+        <dc:subject>Private investigators</dc:subject>
+        <dc:subject>Detective and mystery stories</dc:subject>
+        <dc:subject>Crime &amp; mystery</dc:subject>
+        <dc:subject>Mystery &amp; Detective - Sherlock Holmes</dc:subject>
+        <dc:subject>Sherlock (Fictitious c</dc:subject>
+        <dc:subject>English</dc:subject>
+        <dc:subject>England</dc:subject>
+        <dc:subject>Crime &amp; Thriller</dc:subject>
+        <dc:subject>Sherlock (Fictitious character)</dc:subject>
+        <dc:subject>John H. (Fictitious character)</dc:subject>
+        <dc:subject>Watson</dc:subject>
+        <dc:subject>Mystery fiction</dc:subject>
+        <meta content="{&quot;Sir Arthur Conan Doyle; Kyle Freeman&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-03-13T02:57:32+00:00" name="calibre:timestamp"/>
+        <meta content="Complete Sherlock Holmes, Volume II, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

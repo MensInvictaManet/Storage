@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fe1dc85e-2574-4f85-83ea-575adce07938</dc:identifier>
+        <dc:title>Driving Blind</dc:title>
+        <dc:creator opf:file-as="Bradbury, Ray" opf:role="aut">Ray Bradbury</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.22) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-10-01T18:11:19+00:00</dc:date>
+        <dc:description>SUMMARY: The incomparable Ray Bradbury is in the driver's seat, off on twenty-one unforgettable excursions through fantasy, time and memory, and there are surprises waiting around every curve and behind each mile marker. The journey promises to be a memorable one.</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780380789603</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>United States</dc:subject>
+        <dc:subject>Modern fiction</dc:subject>
+        <dc:subject>Short Stories (single author)</dc:subject>
+        <dc:subject>Short stories</dc:subject>
+        <dc:subject>Science Fiction - General</dc:subject>
+        <dc:subject>Fantasy - General</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Fiction - Fantasy</dc:subject>
+        <meta content="{&quot;Ray Bradbury&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-03-13T02:59:18+00:00" name="calibre:timestamp"/>
+        <meta content="Driving Blind" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
